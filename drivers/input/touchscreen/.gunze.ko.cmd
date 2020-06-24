@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/gunze.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/input/touchscreen/gunze.ko drivers/input/touchscreen/gunze.o drivers/input/touchscreen/gunze.mod.o;  true

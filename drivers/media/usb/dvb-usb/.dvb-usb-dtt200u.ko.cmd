@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/dvb-usb/dvb-usb-dtt200u.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/usb/dvb-usb/dvb-usb-dtt200u.ko drivers/media/usb/dvb-usb/dvb-usb-dtt200u.o drivers/media/usb/dvb-usb/dvb-usb-dtt200u.mod.o;  true

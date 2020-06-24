@@ -1,0 +1,1 @@
+cmd_drivers/video/fbdev/uvesafb.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/video/fbdev/uvesafb.ko drivers/video/fbdev/uvesafb.o drivers/video/fbdev/uvesafb.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_net/sched/cls_tcindex.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/sched/cls_tcindex.ko net/sched/cls_tcindex.o net/sched/cls_tcindex.mod.o;  true

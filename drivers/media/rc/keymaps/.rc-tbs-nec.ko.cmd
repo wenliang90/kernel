@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/keymaps/rc-tbs-nec.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/rc/keymaps/rc-tbs-nec.ko drivers/media/rc/keymaps/rc-tbs-nec.o drivers/media/rc/keymaps/rc-tbs-nec.mod.o;  true

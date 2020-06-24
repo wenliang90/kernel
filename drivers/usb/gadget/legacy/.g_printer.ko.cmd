@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/legacy/g_printer.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/gadget/legacy/g_printer.ko drivers/usb/gadget/legacy/g_printer.o drivers/usb/gadget/legacy/g_printer.mod.o;  true

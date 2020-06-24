@@ -1,0 +1,11 @@
+Package: linux-dtb-current-rockchip64
+Source: linux-5.4.46-rockchip64
+Version: 20.05.0-trunk
+Architecture: arm64
+Maintainer: Igor Pecovnik <igor.pecovnik@****l.com>
+Installed-Size: 2388
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux DTB, version 5.4.46-rockchip64
+ This package contains device blobs from the Linux kernel, version 5.4.46-rockchip64

@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/legacy/g_serial.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/gadget/legacy/g_serial.ko drivers/usb/gadget/legacy/g_serial.o drivers/usb/gadget/legacy/g_serial.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/mtd/hyperbus/hbmc-am654.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/mtd/hyperbus/hbmc-am654.ko drivers/mtd/hyperbus/hbmc-am654.o drivers/mtd/hyperbus/hbmc-am654.mod.o;  true

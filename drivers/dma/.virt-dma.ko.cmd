@@ -1,0 +1,1 @@
+cmd_drivers/dma/virt-dma.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/dma/virt-dma.ko drivers/dma/virt-dma.o drivers/dma/virt-dma.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/keymaps/rc-iodata-bctv7e.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/rc/keymaps/rc-iodata-bctv7e.ko drivers/media/rc/keymaps/rc-iodata-bctv7e.o drivers/media/rc/keymaps/rc-iodata-bctv7e.mod.o;  true

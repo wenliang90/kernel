@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/realtek/rtlwifi/rtl8192c/rtl8192c-common.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/wireless/realtek/rtlwifi/rtl8192c/rtl8192c-common.ko drivers/net/wireless/realtek/rtlwifi/rtl8192c/rtl8192c-common.o drivers/net/wireless/realtek/rtlwifi/rtl8192c/rtl8192c-common.mod.o;  true

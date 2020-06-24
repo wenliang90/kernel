@@ -1,0 +1,1 @@
+cmd_drivers/nvme/host/nvme-fabrics.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/nvme/host/nvme-fabrics.ko drivers/nvme/host/nvme-fabrics.o drivers/nvme/host/nvme-fabrics.mod.o;  true

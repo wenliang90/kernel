@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/melfas_mip4.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/input/touchscreen/melfas_mip4.ko drivers/input/touchscreen/melfas_mip4.o drivers/input/touchscreen/melfas_mip4.mod.o;  true

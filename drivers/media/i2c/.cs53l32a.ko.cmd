@@ -1,0 +1,1 @@
+cmd_drivers/media/i2c/cs53l32a.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/i2c/cs53l32a.ko drivers/media/i2c/cs53l32a.o drivers/media/i2c/cs53l32a.mod.o;  true

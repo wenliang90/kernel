@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/empeg.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/serial/empeg.ko drivers/usb/serial/empeg.o drivers/usb/serial/empeg.mod.o;  true

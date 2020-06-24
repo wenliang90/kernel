@@ -1,0 +1,1 @@
+cmd_drivers/crypto/hisilicon/sec/hisi_sec.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/crypto/hisilicon/sec/hisi_sec.ko drivers/crypto/hisilicon/sec/hisi_sec.o drivers/crypto/hisilicon/sec/hisi_sec.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/power/supply/bq27xxx_battery_hdq.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/power/supply/bq27xxx_battery_hdq.ko drivers/power/supply/bq27xxx_battery_hdq.o drivers/power/supply/bq27xxx_battery_hdq.mod.o;  true

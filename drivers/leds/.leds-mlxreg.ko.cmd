@@ -1,0 +1,1 @@
+cmd_drivers/leds/leds-mlxreg.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/leds/leds-mlxreg.ko drivers/leds/leds-mlxreg.o drivers/leds/leds-mlxreg.mod.o;  true

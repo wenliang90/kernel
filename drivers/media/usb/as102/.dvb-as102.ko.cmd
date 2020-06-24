@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/as102/dvb-as102.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/usb/as102/dvb-as102.ko drivers/media/usb/as102/dvb-as102.o drivers/media/usb/as102/dvb-as102.mod.o;  true

@@ -1,0 +1,9 @@
+drivers/power/supply/adp5061.ko
+drivers/power/supply/ds2760_battery.ko
+drivers/power/supply/bq27xxx_battery_hdq.ko
+drivers/power/supply/max1721x_battery.ko
+drivers/power/supply/isp1704_charger.ko
+drivers/power/supply/lt3651-charger.ko
+drivers/power/supply/max77650-charger.ko
+drivers/power/supply/ucs1002_power.ko
+drivers/power/supply/bd70528-charger.ko

@@ -1,0 +1,1 @@
+cmd_drivers/thermal/thermal_mmio.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/thermal/thermal_mmio.ko drivers/thermal/thermal_mmio.o drivers/thermal/thermal_mmio.mod.o;  true

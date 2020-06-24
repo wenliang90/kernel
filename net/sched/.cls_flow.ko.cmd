@@ -1,0 +1,1 @@
+cmd_net/sched/cls_flow.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/sched/cls_flow.ko net/sched/cls_flow.o net/sched/cls_flow.mod.o;  true

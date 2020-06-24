@@ -1,0 +1,6 @@
+cd /usr/src/linux-headers-5.4.46-rockchip64
+echo "Compiling headers - please wait ..."
+find -type f -exec touch {} +
+make -s scripts >/dev/null
+make -s M=scripts/mod/ >/dev/null
+exit 0

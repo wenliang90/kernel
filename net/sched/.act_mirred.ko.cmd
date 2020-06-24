@@ -1,0 +1,1 @@
+cmd_net/sched/act_mirred.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/sched/act_mirred.ko net/sched/act_mirred.o net/sched/act_mirred.mod.o;  true

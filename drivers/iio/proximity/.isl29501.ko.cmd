@@ -1,0 +1,1 @@
+cmd_drivers/iio/proximity/isl29501.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/iio/proximity/isl29501.ko drivers/iio/proximity/isl29501.o drivers/iio/proximity/isl29501.mod.o;  true

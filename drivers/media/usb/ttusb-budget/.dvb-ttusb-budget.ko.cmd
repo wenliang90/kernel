@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/ttusb-budget/dvb-ttusb-budget.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/usb/ttusb-budget/dvb-ttusb-budget.ko drivers/media/usb/ttusb-budget/dvb-ttusb-budget.o drivers/media/usb/ttusb-budget/dvb-ttusb-budget.mod.o;  true

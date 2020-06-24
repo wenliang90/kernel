@@ -1,0 +1,1 @@
+cmd_drivers/mtd/spi-nor/mtk-quadspi.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/mtd/spi-nor/mtk-quadspi.ko drivers/mtd/spi-nor/mtk-quadspi.o drivers/mtd/spi-nor/mtk-quadspi.mod.o;  true

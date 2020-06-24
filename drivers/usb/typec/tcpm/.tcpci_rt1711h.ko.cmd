@@ -1,0 +1,1 @@
+cmd_drivers/usb/typec/tcpm/tcpci_rt1711h.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/typec/tcpm/tcpci_rt1711h.ko drivers/usb/typec/tcpm/tcpci_rt1711h.o drivers/usb/typec/tcpm/tcpci_rt1711h.mod.o;  true

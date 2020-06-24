@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/rockchip/rga/rockchip-rga.o := ccache aarch64-linux-gnu-ld  -EL  -maarch64elf    -r -o drivers/media/platform/rockchip/rga/rockchip-rga.o drivers/media/platform/rockchip/rga/rga.o drivers/media/platform/rockchip/rga/rga-hw.o drivers/media/platform/rockchip/rga/rga-buf.o

@@ -1,0 +1,1 @@
+cmd_net/netfilter/nf_tables_set.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/netfilter/nf_tables_set.ko net/netfilter/nf_tables_set.o net/netfilter/nf_tables_set.mod.o;  true

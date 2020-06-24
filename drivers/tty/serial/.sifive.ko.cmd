@@ -1,0 +1,1 @@
+cmd_drivers/tty/serial/sifive.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/tty/serial/sifive.ko drivers/tty/serial/sifive.o drivers/tty/serial/sifive.mod.o;  true

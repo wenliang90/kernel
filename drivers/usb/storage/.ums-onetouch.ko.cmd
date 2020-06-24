@@ -1,0 +1,1 @@
+cmd_drivers/usb/storage/ums-onetouch.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/storage/ums-onetouch.ko drivers/usb/storage/ums-onetouch.o drivers/usb/storage/ums-onetouch.mod.o;  true

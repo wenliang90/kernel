@@ -1,0 +1,1 @@
+cmd_drivers/spi/spi-mxic.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/spi/spi-mxic.ko drivers/spi/spi-mxic.o drivers/spi/spi-mxic.mod.o;  true

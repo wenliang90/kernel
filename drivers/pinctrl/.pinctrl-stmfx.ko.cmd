@@ -1,0 +1,1 @@
+cmd_drivers/pinctrl/pinctrl-stmfx.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/pinctrl/pinctrl-stmfx.ko drivers/pinctrl/pinctrl-stmfx.o drivers/pinctrl/pinctrl-stmfx.mod.o;  true

@@ -1,0 +1,4 @@
+drivers/gpio/gpio-bd70528.ko
+drivers/gpio/gpio-hlwd.ko
+drivers/gpio/gpio-max77650.ko
+drivers/gpio/gpio-sama5d2-piobu.ko

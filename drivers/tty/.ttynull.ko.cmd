@@ -1,0 +1,1 @@
+cmd_drivers/tty/ttynull.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/tty/ttynull.ko drivers/tty/ttynull.o drivers/tty/ttynull.mod.o;  true

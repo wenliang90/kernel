@@ -1,0 +1,15 @@
+sound/soc/codecs/snd-soc-ak4613.ko
+sound/soc/codecs/snd-soc-da7219.ko
+sound/soc/codecs/snd-soc-dmic.ko
+sound/soc/codecs/snd-soc-es8328.ko
+sound/soc/codecs/snd-soc-es8328-i2c.ko
+sound/soc/codecs/snd-soc-es8328-spi.ko
+sound/soc/codecs/snd-soc-max98090.ko
+sound/soc/codecs/snd-soc-max98357a.ko
+sound/soc/codecs/snd-soc-hdmi-codec.ko
+sound/soc/codecs/snd-soc-rl6231.ko
+sound/soc/codecs/snd-soc-rt5514.ko
+sound/soc/codecs/snd-soc-rt5514-spi.ko
+sound/soc/codecs/snd-soc-rt5645.ko
+sound/soc/codecs/snd-soc-rt5651.ko
+sound/soc/codecs/snd-soc-ts3a227e.ko

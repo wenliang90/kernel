@@ -1,0 +1,1 @@
+cmd_drivers/iio/potentiometer/ad5272.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/iio/potentiometer/ad5272.ko drivers/iio/potentiometer/ad5272.o drivers/iio/potentiometer/ad5272.mod.o;  true

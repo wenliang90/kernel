@@ -1,0 +1,1 @@
+cmd_drivers/nvme/host/nvme-fc.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/nvme/host/nvme-fc.ko drivers/nvme/host/nvme-fc.o drivers/nvme/host/nvme-fc.mod.o;  true

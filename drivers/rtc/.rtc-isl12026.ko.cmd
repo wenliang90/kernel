@@ -1,0 +1,1 @@
+cmd_drivers/rtc/rtc-isl12026.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/rtc/rtc-isl12026.ko drivers/rtc/rtc-isl12026.o drivers/rtc/rtc-isl12026.mod.o;  true

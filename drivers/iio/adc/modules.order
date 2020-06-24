@@ -1,0 +1,10 @@
+drivers/iio/adc/ad_sigma_delta.ko
+drivers/iio/adc/ad7124.ko
+drivers/iio/adc/ad7606_par.ko
+drivers/iio/adc/ad7606_spi.ko
+drivers/iio/adc/ad7606.ko
+drivers/iio/adc/ad7768-1.ko
+drivers/iio/adc/ad7949.ko
+drivers/iio/adc/ti-ads8344.ko
+drivers/iio/adc/ti-ads124s08.ko
+drivers/iio/adc/xilinx-xadc.ko

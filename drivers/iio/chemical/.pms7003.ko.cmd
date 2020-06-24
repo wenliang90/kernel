@@ -1,0 +1,1 @@
+cmd_drivers/iio/chemical/pms7003.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/iio/chemical/pms7003.ko drivers/iio/chemical/pms7003.o drivers/iio/chemical/pms7003.mod.o;  true

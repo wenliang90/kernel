@@ -1,0 +1,1 @@
+cmd_drivers/mfd/rave-sp.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/mfd/rave-sp.ko drivers/mfd/rave-sp.o drivers/mfd/rave-sp.mod.o;  true

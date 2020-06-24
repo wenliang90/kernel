@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/sfp.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/phy/sfp.ko drivers/net/phy/sfp.o drivers/net/phy/sfp.mod.o;  true

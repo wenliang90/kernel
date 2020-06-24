@@ -1,0 +1,7 @@
+drivers/hwmon/as370-hwmon.ko
+drivers/hwmon/ina2xx.ko
+drivers/hwmon/lm90.ko
+drivers/hwmon/npcm750-pwm-fan.ko
+drivers/hwmon/pwm-fan.ko
+drivers/hwmon/occ/occ-hwmon-common.ko
+drivers/hwmon/occ/occ-p8-hwmon.ko

@@ -1,0 +1,1 @@
+cmd_crypto/streebog_generic.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o crypto/streebog_generic.ko crypto/streebog_generic.o crypto/streebog_generic.mod.o;  true

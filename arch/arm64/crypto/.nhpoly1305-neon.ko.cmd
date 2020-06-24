@@ -1,0 +1,1 @@
+cmd_arch/arm64/crypto/nhpoly1305-neon.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o arch/arm64/crypto/nhpoly1305-neon.ko arch/arm64/crypto/nhpoly1305-neon.o arch/arm64/crypto/nhpoly1305-neon.mod.o;  true

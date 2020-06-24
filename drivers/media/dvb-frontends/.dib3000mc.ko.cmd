@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/dib3000mc.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/dvb-frontends/dib3000mc.ko drivers/media/dvb-frontends/dib3000mc.o drivers/media/dvb-frontends/dib3000mc.mod.o;  true

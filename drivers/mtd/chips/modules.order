@@ -1,0 +1,4 @@
+drivers/mtd/chips/cfi_probe.ko
+drivers/mtd/chips/cfi_util.ko
+drivers/mtd/chips/cfi_cmdset_0002.ko
+drivers/mtd/chips/gen_probe.ko

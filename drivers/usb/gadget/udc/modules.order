@@ -1,0 +1,5 @@
+drivers/usb/gadget/udc/net2280.ko
+drivers/usb/gadget/udc/snps_udc_core.ko
+drivers/usb/gadget/udc/amd5536udc_pci.ko
+drivers/usb/gadget/udc/goku_udc.ko
+drivers/usb/gadget/udc/pch_udc.ko

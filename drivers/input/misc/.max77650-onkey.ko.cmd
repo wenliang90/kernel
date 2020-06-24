@@ -1,0 +1,1 @@
+cmd_drivers/input/misc/max77650-onkey.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/input/misc/max77650-onkey.ko drivers/input/misc/max77650-onkey.o drivers/input/misc/max77650-onkey.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_net/sched/cls_matchall.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/sched/cls_matchall.ko net/sched/cls_matchall.o net/sched/cls_matchall.mod.o;  true

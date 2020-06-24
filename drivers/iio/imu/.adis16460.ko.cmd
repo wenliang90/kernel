@@ -1,0 +1,1 @@
+cmd_drivers/iio/imu/adis16460.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/iio/imu/adis16460.ko drivers/iio/imu/adis16460.o drivers/iio/imu/adis16460.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/panel/panel-feiyang-fy07024di26a30d.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/gpu/drm/panel/panel-feiyang-fy07024di26a30d.ko drivers/gpu/drm/panel/panel-feiyang-fy07024di26a30d.o drivers/gpu/drm/panel/panel-feiyang-fy07024di26a30d.mod.o;  true

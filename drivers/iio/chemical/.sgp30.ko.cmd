@@ -1,0 +1,1 @@
+cmd_drivers/iio/chemical/sgp30.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/iio/chemical/sgp30.ko drivers/iio/chemical/sgp30.o drivers/iio/chemical/sgp30.mod.o;  true

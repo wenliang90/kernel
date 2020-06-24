@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/mtouch.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/input/touchscreen/mtouch.ko drivers/input/touchscreen/mtouch.o drivers/input/touchscreen/mtouch.mod.o;  true

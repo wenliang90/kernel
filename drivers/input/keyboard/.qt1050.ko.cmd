@@ -1,0 +1,1 @@
+cmd_drivers/input/keyboard/qt1050.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/input/keyboard/qt1050.ko drivers/input/keyboard/qt1050.o drivers/input/keyboard/qt1050.mod.o;  true

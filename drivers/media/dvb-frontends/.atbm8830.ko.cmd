@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/atbm8830.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/dvb-frontends/atbm8830.ko drivers/media/dvb-frontends/atbm8830.o drivers/media/dvb-frontends/atbm8830.mod.o;  true

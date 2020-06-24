@@ -1,0 +1,3 @@
+drivers/watchdog/bd70528_wdt.ko
+drivers/watchdog/softdog.ko
+drivers/watchdog/rave-sp-wdt.ko

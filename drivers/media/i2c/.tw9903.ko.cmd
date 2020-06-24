@@ -1,0 +1,1 @@
+cmd_drivers/media/i2c/tw9903.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/i2c/tw9903.ko drivers/media/i2c/tw9903.o drivers/media/i2c/tw9903.mod.o;  true

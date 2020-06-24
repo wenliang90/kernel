@@ -1,0 +1,1 @@
+cmd_drivers/media/i2c/msp3400.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/i2c/msp3400.ko drivers/media/i2c/msp3400.o drivers/media/i2c/msp3400.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/mms114.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/input/touchscreen/mms114.ko drivers/input/touchscreen/mms114.o drivers/input/touchscreen/mms114.mod.o;  true

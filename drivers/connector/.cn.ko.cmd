@@ -1,0 +1,1 @@
+cmd_drivers/connector/cn.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/connector/cn.ko drivers/connector/cn.o drivers/connector/cn.mod.o;  true

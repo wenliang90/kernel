@@ -1,0 +1,1 @@
+cmd_drivers/usb/usbip/vhci-hcd.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/usbip/vhci-hcd.ko drivers/usb/usbip/vhci-hcd.o drivers/usb/usbip/vhci-hcd.mod.o;  true

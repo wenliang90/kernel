@@ -1,0 +1,37 @@
+!<thin>
+//                                              256       `
+libata-core.o/
+libata-scsi.o/
+libata-eh.o/
+libata-transport.o/
+libata-trace.o/
+libata-sff.o/
+libata-pmp.o/
+ahci.o/
+libahci.o/
+ahci_platform.o/
+libahci_platform.o/
+sata_sil24.o/
+ahci_ceva.o/
+ahci_xgene.o/
+ahci_qoriq.o/
+pata_platform.o/
+pata_of_platform.o/
+
+/0              0           0     0     644     175376    `
+/15             0           0     0     644     72528     `
+/30             0           0     0     644     65096     `
+/43             0           0     0     644     21808     `
+/63             0           0     0     644     1832      `
+/79             0           0     0     644     71624     `
+/93             0           0     0     644     20784     `
+/107            0           0     0     644     47376     `
+/115            0           0     0     644     63856     `
+/126           /0           0     0     644     8752      `
+/143            0           0     0     644     24688     `
+/163            0           0     0     644     26656     `
+/177            0           0     0     644     12848     `
+/190            0           0     0     644     18832     `
+/204            0           0     0     644     13552     `
+/218           /0           0     0     644     10320     `
+/235            0           0     0     644     7360      `

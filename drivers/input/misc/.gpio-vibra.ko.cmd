@@ -1,0 +1,1 @@
+cmd_drivers/input/misc/gpio-vibra.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/input/misc/gpio-vibra.ko drivers/input/misc/gpio-vibra.o drivers/input/misc/gpio-vibra.mod.o;  true

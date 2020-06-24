@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/cxd2820r.o := ccache aarch64-linux-gnu-ld  -EL  -maarch64elf    -r -o drivers/media/dvb-frontends/cxd2820r.o drivers/media/dvb-frontends/cxd2820r_core.o drivers/media/dvb-frontends/cxd2820r_c.o drivers/media/dvb-frontends/cxd2820r_t.o drivers/media/dvb-frontends/cxd2820r_t2.o

@@ -1,0 +1,35 @@
+!<thin>
+//                                              232       `
+mmci.o/
+mmci_stm32_sdmmc.o/
+sdhci.o/
+mmc_spi.o/
+of_mmc_spi.o/
+dw_mmc.o/
+dw_mmc-pltfm.o/
+dw_mmc-exynos.o/
+dw_mmc-k3.o/
+dw_mmc-rockchip.o/
+sdhci-pltfm.o/
+sdhci-cadence.o/
+sdhci-of-arasan.o/
+cqhci.o/
+sdhci-xenon.o/
+sdhci-xenon-phy.o/
+
+/0              0           0     0     644     36256     `
+/8              0           0     0     644     6248      `
+/28             0           0     0     644     90872     `
+/37             0           0     0     644     20184     `
+/48             0           0     0     644     4112      `
+/62             0           0     0     644     56008     `
+/72             0           0     0     644     8416      `
+/88            /0           0     0     644     14960     `
+/105            0           0     0     644     12120     `
+/118            0           0     0     644     11432     `
+/137            0           0     0     644     14728     `
+/152           /0           0     0     644     13232     `
+/169            0           0     0     644     20824     `
+/188            0           0     0     644     25664     `
+/197            0           0     0     644     18760     `
+/212            0           0     0     644     12928     `

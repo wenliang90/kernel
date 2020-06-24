@@ -1,0 +1,1 @@
+cmd_drivers/net/usb/cdc_ncm.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/usb/cdc_ncm.ko drivers/net/usb/cdc_ncm.o drivers/net/usb/cdc_ncm.mod.o;  true

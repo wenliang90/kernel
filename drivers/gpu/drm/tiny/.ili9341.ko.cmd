@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/tiny/ili9341.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/gpu/drm/tiny/ili9341.ko drivers/gpu/drm/tiny/ili9341.o drivers/gpu/drm/tiny/ili9341.mod.o;  true

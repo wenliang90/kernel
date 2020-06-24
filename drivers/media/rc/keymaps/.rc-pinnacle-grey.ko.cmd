@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/keymaps/rc-pinnacle-grey.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/rc/keymaps/rc-pinnacle-grey.ko drivers/media/rc/keymaps/rc-pinnacle-grey.o drivers/media/rc/keymaps/rc-pinnacle-grey.mod.o;  true

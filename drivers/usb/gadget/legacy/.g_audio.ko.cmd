@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/legacy/g_audio.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/gadget/legacy/g_audio.ko drivers/usb/gadget/legacy/g_audio.o drivers/usb/gadget/legacy/g_audio.mod.o;  true

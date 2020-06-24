@@ -1,0 +1,1 @@
+cmd_drivers/nvme/target/nvmet.o := ccache aarch64-linux-gnu-ld  -EL  -maarch64elf    -r -o drivers/nvme/target/nvmet.o drivers/nvme/target/core.o drivers/nvme/target/configfs.o drivers/nvme/target/admin-cmd.o drivers/nvme/target/fabrics-cmd.o drivers/nvme/target/discovery.o drivers/nvme/target/io-cmd-file.o drivers/nvme/target/io-cmd-bdev.o

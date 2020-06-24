@@ -1,0 +1,1 @@
+cmd_drivers/mmc/host/sdhci_am654.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/mmc/host/sdhci_am654.ko drivers/mmc/host/sdhci_am654.o drivers/mmc/host/sdhci_am654.mod.o;  true

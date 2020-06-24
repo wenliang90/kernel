@@ -1,0 +1,4 @@
+drivers/tty/serial/fsl_linflexuart.ko
+drivers/tty/serial/sifive.ko
+drivers/tty/serdev/serdev.ko
+drivers/tty/ttynull.ko

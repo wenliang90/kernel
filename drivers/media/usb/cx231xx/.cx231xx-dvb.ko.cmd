@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/cx231xx/cx231xx-dvb.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/usb/cx231xx/cx231xx-dvb.ko drivers/media/usb/cx231xx/cx231xx-dvb.o drivers/media/usb/cx231xx/cx231xx-dvb.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/md/dm-delay.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/md/dm-delay.ko drivers/md/dm-delay.o drivers/md/dm-delay.mod.o;  true

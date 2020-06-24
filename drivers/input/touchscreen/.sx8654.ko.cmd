@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/sx8654.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/input/touchscreen/sx8654.ko drivers/input/touchscreen/sx8654.o drivers/input/touchscreen/sx8654.mod.o;  true

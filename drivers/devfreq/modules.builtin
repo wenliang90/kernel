@@ -1,0 +1,4 @@
+drivers/devfreq/governor_simpleondemand.ko
+drivers/devfreq/rk3399_dmc.ko
+drivers/devfreq/rk3328_dmc.ko
+drivers/devfreq/event/rockchip-dfi.ko

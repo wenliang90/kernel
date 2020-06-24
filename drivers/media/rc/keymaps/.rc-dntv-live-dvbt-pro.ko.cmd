@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/keymaps/rc-dntv-live-dvbt-pro.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/rc/keymaps/rc-dntv-live-dvbt-pro.ko drivers/media/rc/keymaps/rc-dntv-live-dvbt-pro.o drivers/media/rc/keymaps/rc-dntv-live-dvbt-pro.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/keymaps/rc-behold-columbus.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/rc/keymaps/rc-behold-columbus.ko drivers/media/rc/keymaps/rc-behold-columbus.o drivers/media/rc/keymaps/rc-behold-columbus.mod.o;  true

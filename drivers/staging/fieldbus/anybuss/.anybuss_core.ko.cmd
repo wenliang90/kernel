@@ -1,0 +1,1 @@
+cmd_drivers/staging/fieldbus/anybuss/anybuss_core.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/staging/fieldbus/anybuss/anybuss_core.ko drivers/staging/fieldbus/anybuss/anybuss_core.o drivers/staging/fieldbus/anybuss/anybuss_core.mod.o;  true

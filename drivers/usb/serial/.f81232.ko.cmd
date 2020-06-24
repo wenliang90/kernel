@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/f81232.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/serial/f81232.ko drivers/usb/serial/f81232.o drivers/usb/serial/f81232.mod.o;  true

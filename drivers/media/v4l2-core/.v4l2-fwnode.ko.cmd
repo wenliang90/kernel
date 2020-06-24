@@ -1,0 +1,1 @@
+cmd_drivers/media/v4l2-core/v4l2-fwnode.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/v4l2-core/v4l2-fwnode.ko drivers/media/v4l2-core/v4l2-fwnode.o drivers/media/v4l2-core/v4l2-fwnode.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_net/sched/cls_flower.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/sched/cls_flower.ko net/sched/cls_flower.o net/sched/cls_flower.mod.o;  true

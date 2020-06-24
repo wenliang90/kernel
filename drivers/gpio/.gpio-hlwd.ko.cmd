@@ -1,0 +1,1 @@
+cmd_drivers/gpio/gpio-hlwd.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/gpio/gpio-hlwd.ko drivers/gpio/gpio-hlwd.o drivers/gpio/gpio-hlwd.mod.o;  true

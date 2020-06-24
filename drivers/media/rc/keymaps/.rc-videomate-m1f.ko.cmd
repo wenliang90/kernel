@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/keymaps/rc-videomate-m1f.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/rc/keymaps/rc-videomate-m1f.ko drivers/media/rc/keymaps/rc-videomate-m1f.o drivers/media/rc/keymaps/rc-videomate-m1f.mod.o;  true

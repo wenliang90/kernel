@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/keymaps/rc-cinergy.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/rc/keymaps/rc-cinergy.ko drivers/media/rc/keymaps/rc-cinergy.o drivers/media/rc/keymaps/rc-cinergy.mod.o;  true

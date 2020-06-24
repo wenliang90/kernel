@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/b2c2/b2c2-flexcop-usb.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/usb/b2c2/b2c2-flexcop-usb.ko drivers/media/usb/b2c2/b2c2-flexcop-usb.o drivers/media/usb/b2c2/b2c2-flexcop-usb.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/phy/freescale/phy-fsl-imx8-mipi-dphy.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/phy/freescale/phy-fsl-imx8-mipi-dphy.ko drivers/phy/freescale/phy-fsl-imx8-mipi-dphy.o drivers/phy/freescale/phy-fsl-imx8-mipi-dphy.mod.o;  true

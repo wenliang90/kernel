@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/tsc2007.o := ccache aarch64-linux-gnu-ld  -EL  -maarch64elf    -r -o drivers/input/touchscreen/tsc2007.o drivers/input/touchscreen/tsc2007_core.o drivers/input/touchscreen/tsc2007_iio.o

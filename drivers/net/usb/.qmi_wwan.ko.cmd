@@ -1,0 +1,1 @@
+cmd_drivers/net/usb/qmi_wwan.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/usb/qmi_wwan.ko drivers/net/usb/qmi_wwan.o drivers/net/usb/qmi_wwan.mod.o;  true

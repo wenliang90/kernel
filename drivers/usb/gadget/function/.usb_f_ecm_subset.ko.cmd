@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/function/usb_f_ecm_subset.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/gadget/function/usb_f_ecm_subset.ko drivers/usb/gadget/function/usb_f_ecm_subset.o drivers/usb/gadget/function/usb_f_ecm_subset.mod.o;  true

@@ -1,0 +1,3 @@
+drivers/input/misc/gpio-vibra.ko
+drivers/input/misc/max77650-onkey.ko
+drivers/input/misc/rave-sp-pwrbutton.ko

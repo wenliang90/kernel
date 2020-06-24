@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/touchright.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/input/touchscreen/touchright.ko drivers/input/touchscreen/touchright.o drivers/input/touchscreen/touchright.mod.o;  true

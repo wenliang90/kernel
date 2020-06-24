@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/pwc/pwc.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/usb/pwc/pwc.ko drivers/media/usb/pwc/pwc.o drivers/media/usb/pwc/pwc.mod.o;  true

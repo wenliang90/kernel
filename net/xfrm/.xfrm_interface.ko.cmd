@@ -1,0 +1,1 @@
+cmd_net/xfrm/xfrm_interface.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/xfrm/xfrm_interface.ko net/xfrm/xfrm_interface.o net/xfrm/xfrm_interface.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/interconnect/icc-core.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/interconnect/icc-core.ko drivers/interconnect/icc-core.o drivers/interconnect/icc-core.mod.o;  true

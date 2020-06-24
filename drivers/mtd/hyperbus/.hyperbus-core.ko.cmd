@@ -1,0 +1,1 @@
+cmd_drivers/mtd/hyperbus/hyperbus-core.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/mtd/hyperbus/hyperbus-core.ko drivers/mtd/hyperbus/hyperbus-core.o drivers/mtd/hyperbus/hyperbus-core.mod.o;  true

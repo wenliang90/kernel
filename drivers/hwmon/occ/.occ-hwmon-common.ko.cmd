@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/occ/occ-hwmon-common.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/hwmon/occ/occ-hwmon-common.ko drivers/hwmon/occ/occ-hwmon-common.o drivers/hwmon/occ/occ-hwmon-common.mod.o;  true

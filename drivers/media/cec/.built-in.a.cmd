@@ -1,0 +1,1 @@
+cmd_drivers/media/cec/built-in.a := rm -f drivers/media/cec/built-in.a; ccache aarch64-linux-gnu-ar cDPrST drivers/media/cec/built-in.a drivers/media/cec/cec-core.o drivers/media/cec/cec-adap.o drivers/media/cec/cec-api.o

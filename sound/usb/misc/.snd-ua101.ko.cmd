@@ -1,0 +1,1 @@
+cmd_sound/usb/misc/snd-ua101.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o sound/usb/misc/snd-ua101.ko sound/usb/misc/snd-ua101.o sound/usb/misc/snd-ua101.mod.o;  true

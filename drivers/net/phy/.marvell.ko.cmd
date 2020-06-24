@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/marvell.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/phy/marvell.ko drivers/net/phy/marvell.o drivers/net/phy/marvell.mod.o;  true

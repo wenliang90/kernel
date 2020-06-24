@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-google-hammer.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/hid/hid-google-hammer.ko drivers/hid/hid-google-hammer.o drivers/hid/hid-google-hammer.mod.o;  true

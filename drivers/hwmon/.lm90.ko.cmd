@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/lm90.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/hwmon/lm90.ko drivers/hwmon/lm90.o drivers/hwmon/lm90.mod.o;  true

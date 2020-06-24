@@ -1,0 +1,1 @@
+cmd_drivers/crypto/rockchip/rk_crypto.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/crypto/rockchip/rk_crypto.ko drivers/crypto/rockchip/rk_crypto.o drivers/crypto/rockchip/rk_crypto.mod.o;  true

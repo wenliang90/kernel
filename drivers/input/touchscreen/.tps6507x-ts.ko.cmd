@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/tps6507x-ts.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/input/touchscreen/tps6507x-ts.ko drivers/input/touchscreen/tps6507x-ts.o drivers/input/touchscreen/tps6507x-ts.mod.o;  true

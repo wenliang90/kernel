@@ -1,0 +1,1 @@
+cmd_crypto/async_tx/async_xor.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o crypto/async_tx/async_xor.ko crypto/async_tx/async_xor.o crypto/async_tx/async_xor.mod.o;  true

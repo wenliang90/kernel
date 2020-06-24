@@ -1,0 +1,1 @@
+cmd_drivers/nvme/target/nvme-loop.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/nvme/target/nvme-loop.ko drivers/nvme/target/nvme-loop.o drivers/nvme/target/nvme-loop.mod.o;  true

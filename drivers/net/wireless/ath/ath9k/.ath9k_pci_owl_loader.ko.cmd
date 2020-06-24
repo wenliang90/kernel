@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/ath/ath9k/ath9k_pci_owl_loader.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/wireless/ath/ath9k/ath9k_pci_owl_loader.ko drivers/net/wireless/ath/ath9k/ath9k_pci_owl_loader.o drivers/net/wireless/ath/ath9k/ath9k_pci_owl_loader.mod.o;  true

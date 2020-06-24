@@ -1,0 +1,1 @@
+cmd_drivers/crypto/ccree/ccree.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/crypto/ccree/ccree.ko drivers/crypto/ccree/ccree.o drivers/crypto/ccree/ccree.mod.o;  true

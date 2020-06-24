@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/adin.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/phy/adin.ko drivers/net/phy/adin.o drivers/net/phy/adin.mod.o;  true

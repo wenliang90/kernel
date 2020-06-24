@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/f81534.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/serial/f81534.ko drivers/usb/serial/f81534.o drivers/usb/serial/f81534.mod.o;  true

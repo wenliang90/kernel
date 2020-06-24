@@ -1,0 +1,1 @@
+cmd_drivers/md/dm-snapshot.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/md/dm-snapshot.ko drivers/md/dm-snapshot.o drivers/md/dm-snapshot.mod.o;  true

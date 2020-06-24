@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/function/usb_f_ss_lb.o := ccache aarch64-linux-gnu-ld  -EL  -maarch64elf    -r -o drivers/usb/gadget/function/usb_f_ss_lb.o drivers/usb/gadget/function/f_loopback.o drivers/usb/gadget/function/f_sourcesink.o

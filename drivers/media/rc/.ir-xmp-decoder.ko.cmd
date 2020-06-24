@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/ir-xmp-decoder.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/rc/ir-xmp-decoder.ko drivers/media/rc/ir-xmp-decoder.o drivers/media/rc/ir-xmp-decoder.mod.o;  true

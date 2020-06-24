@@ -1,0 +1,1 @@
+cmd_drivers/crypto/hisilicon/zip/hisi_zip.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/crypto/hisilicon/zip/hisi_zip.ko drivers/crypto/hisilicon/zip/hisi_zip.o drivers/crypto/hisilicon/zip/hisi_zip.mod.o;  true

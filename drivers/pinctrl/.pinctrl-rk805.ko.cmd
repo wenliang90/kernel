@@ -1,0 +1,1 @@
+cmd_drivers/pinctrl/pinctrl-rk805.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/pinctrl/pinctrl-rk805.ko drivers/pinctrl/pinctrl-rk805.o drivers/pinctrl/pinctrl-rk805.mod.o;  true

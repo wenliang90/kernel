@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/dvb-usb/dvb-usb-dibusb-mb.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/usb/dvb-usb/dvb-usb-dibusb-mb.ko drivers/media/usb/dvb-usb/dvb-usb-dibusb-mb.o drivers/media/usb/dvb-usb/dvb-usb-dibusb-mb.mod.o;  true

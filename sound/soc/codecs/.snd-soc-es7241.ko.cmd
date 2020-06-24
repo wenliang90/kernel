@@ -1,0 +1,1 @@
+cmd_sound/soc/codecs/snd-soc-es7241.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o sound/soc/codecs/snd-soc-es7241.ko sound/soc/codecs/snd-soc-es7241.o sound/soc/codecs/snd-soc-es7241.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/usb/typec/ucsi/typec_ucsi.o := ccache aarch64-linux-gnu-ld  -EL  -maarch64elf    -r -o drivers/usb/typec/ucsi/typec_ucsi.o drivers/usb/typec/ucsi/ucsi.o drivers/usb/typec/ucsi/displayport.o

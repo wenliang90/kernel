@@ -1,0 +1,1 @@
+cmd_drivers/usb/misc/cypress_cy7c63.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/misc/cypress_cy7c63.ko drivers/usb/misc/cypress_cy7c63.o drivers/usb/misc/cypress_cy7c63.mod.o;  true

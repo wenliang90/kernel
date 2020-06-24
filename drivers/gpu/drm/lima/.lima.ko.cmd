@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/lima/lima.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/gpu/drm/lima/lima.ko drivers/gpu/drm/lima/lima.o drivers/gpu/drm/lima/lima.mod.o;  true

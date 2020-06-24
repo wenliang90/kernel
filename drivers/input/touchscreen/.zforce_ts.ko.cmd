@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/zforce_ts.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/input/touchscreen/zforce_ts.ko drivers/input/touchscreen/zforce_ts.o drivers/input/touchscreen/zforce_ts.mod.o;  true

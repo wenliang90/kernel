@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/ir-rc5-decoder.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/rc/ir-rc5-decoder.ko drivers/media/rc/ir-rc5-decoder.o drivers/media/rc/ir-rc5-decoder.mod.o;  true

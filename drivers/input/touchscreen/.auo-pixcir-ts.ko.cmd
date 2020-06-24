@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/auo-pixcir-ts.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/input/touchscreen/auo-pixcir-ts.ko drivers/input/touchscreen/auo-pixcir-ts.o drivers/input/touchscreen/auo-pixcir-ts.mod.o;  true

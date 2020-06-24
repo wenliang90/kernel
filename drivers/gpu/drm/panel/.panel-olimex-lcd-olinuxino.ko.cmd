@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/panel/panel-olimex-lcd-olinuxino.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/gpu/drm/panel/panel-olimex-lcd-olinuxino.ko drivers/gpu/drm/panel/panel-olimex-lcd-olinuxino.o drivers/gpu/drm/panel/panel-olimex-lcd-olinuxino.mod.o;  true

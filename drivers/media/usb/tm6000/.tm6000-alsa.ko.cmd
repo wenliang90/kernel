@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/tm6000/tm6000-alsa.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/usb/tm6000/tm6000-alsa.ko drivers/media/usb/tm6000/tm6000-alsa.o drivers/media/usb/tm6000/tm6000-alsa.mod.o;  true

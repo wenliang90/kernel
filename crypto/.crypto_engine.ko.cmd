@@ -1,0 +1,1 @@
+cmd_crypto/crypto_engine.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o crypto/crypto_engine.ko crypto/crypto_engine.o crypto/crypto_engine.mod.o;  true

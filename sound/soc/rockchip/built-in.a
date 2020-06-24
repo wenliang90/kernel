@@ -1,0 +1,18 @@
+!<thin>
+//                                              148       `
+rockchip_i2s.o/
+rockchip_pcm.o/
+rockchip_pdm.o/
+rockchip_spdif.o/
+rockchip_max98090.o/
+rockchip_rt5645.o/
+rk3288_hdmi_analog.o/
+rk3399_gru_sound.o/
+/0              0           0     0     644     16896     `
+/16             0           0     0     644     3136      `
+/32             0           0     0     644     15600     `
+/48             0           0     0     644     14632     `
+/66             0           0     0     644     14752     `
+/87             0           0     0     644     13512     `
+/106            0           0     0     644     13496     `
+/128            0           0     0     644     21704     `

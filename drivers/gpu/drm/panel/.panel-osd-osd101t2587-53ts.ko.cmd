@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/panel/panel-osd-osd101t2587-53ts.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/gpu/drm/panel/panel-osd-osd101t2587-53ts.ko drivers/gpu/drm/panel/panel-osd-osd101t2587-53ts.o drivers/gpu/drm/panel/panel-osd-osd101t2587-53ts.mod.o;  true

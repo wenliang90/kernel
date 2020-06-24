@@ -1,0 +1,4 @@
+drivers/mfd/mfd-core.ko
+drivers/mfd/rk808.ko
+drivers/mfd/sec-core.ko
+drivers/mfd/sec-irq.ko

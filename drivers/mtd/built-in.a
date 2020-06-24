@@ -1,0 +1,25 @@
+!<thin>
+//                                              158       `
+mtdcore.o/
+mtdsuper.o/
+mtdconcat.o/
+mtdpart.o/
+mtdchar.o/
+parsers/ofpart.o/
+mtd_blkdevs.o/
+mtdblock.o/
+chips/chipreg.o/
+maps/map_funcs.o/
+spi-nor/spi-nor.o/
+
+/0              0           0     0     644     60184     `
+/11             0           0     0     644     6232      `
+/23             0           0     0     644     14488     `
+/36             0           0     0     644     24984     `
+/47             0           0     0     644     26408     `
+/58             0           0     0     644     8608      `
+/76             0           0     0     644     18672     `
+/91             0           0     0     644     8264      `
+/103            0           0     0     644     6336      `
+/120            0           0     0     644     4800      `
+/138            0           0     0     644     65536     `

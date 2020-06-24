@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/dib0070.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/dvb-frontends/dib0070.ko drivers/media/dvb-frontends/dib0070.o drivers/media/dvb-frontends/dib0070.mod.o;  true

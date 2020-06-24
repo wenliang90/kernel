@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/i2c/ch7006.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/gpu/drm/i2c/ch7006.ko drivers/gpu/drm/i2c/ch7006.o drivers/gpu/drm/i2c/ch7006.mod.o;  true

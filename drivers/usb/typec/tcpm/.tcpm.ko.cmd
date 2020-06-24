@@ -1,0 +1,1 @@
+cmd_drivers/usb/typec/tcpm/tcpm.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/typec/tcpm/tcpm.ko drivers/usb/typec/tcpm/tcpm.o drivers/usb/typec/tcpm/tcpm.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/char/ttyprintk.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/char/ttyprintk.ko drivers/char/ttyprintk.o drivers/char/ttyprintk.mod.o;  true

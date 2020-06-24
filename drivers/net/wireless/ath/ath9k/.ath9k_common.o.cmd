@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/ath/ath9k/ath9k_common.o := ccache aarch64-linux-gnu-ld  -EL  -maarch64elf    -r -o drivers/net/wireless/ath/ath9k/ath9k_common.o drivers/net/wireless/ath/ath9k/common.o drivers/net/wireless/ath/ath9k/common-init.o drivers/net/wireless/ath/ath9k/common-beacon.o

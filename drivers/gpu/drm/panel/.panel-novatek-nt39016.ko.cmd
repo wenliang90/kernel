@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/panel/panel-novatek-nt39016.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/gpu/drm/panel/panel-novatek-nt39016.ko drivers/gpu/drm/panel/panel-novatek-nt39016.o drivers/gpu/drm/panel/panel-novatek-nt39016.mod.o;  true

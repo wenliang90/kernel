@@ -1,0 +1,13 @@
+drivers/net/phy/phylink.ko
+drivers/net/phy/mdio-mux-multiplexer.ko
+drivers/net/phy/mdio-i2c.ko
+drivers/net/phy/mdio-mscc-miim.ko
+drivers/net/phy/sfp.ko
+drivers/net/phy/adin.ko
+drivers/net/phy/ax88796b.ko
+drivers/net/phy/at803x.ko
+drivers/net/phy/dp83tc811.ko
+drivers/net/phy/marvell.ko
+drivers/net/phy/microchip.ko
+drivers/net/phy/microchip_t1.ko
+drivers/net/phy/nxp-tja11xx.ko

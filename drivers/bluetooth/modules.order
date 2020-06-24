@@ -1,0 +1,5 @@
+drivers/bluetooth/hci_uart.ko
+drivers/bluetooth/btmtksdio.ko
+drivers/bluetooth/btmtkuart.ko
+drivers/bluetooth/btbcm.ko
+drivers/bluetooth/hci_nokia.ko

@@ -1,0 +1,6 @@
+drivers/rtc/rtc-ds3232.ko
+drivers/rtc/rtc-efi.ko
+drivers/rtc/rtc-max77686.ko
+drivers/rtc/rtc-pl031.ko
+drivers/rtc/rtc-rk808.ko
+drivers/rtc/rtc-s5m.ko

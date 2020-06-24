@@ -1,0 +1,1 @@
+cmd_drivers/mux/mux-adgs1408.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/mux/mux-adgs1408.ko drivers/mux/mux-adgs1408.o drivers/mux/mux-adgs1408.mod.o;  true

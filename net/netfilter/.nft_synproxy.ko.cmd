@@ -1,0 +1,1 @@
+cmd_net/netfilter/nft_synproxy.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/netfilter/nft_synproxy.ko net/netfilter/nft_synproxy.o net/netfilter/nft_synproxy.mod.o;  true

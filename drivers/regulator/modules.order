@@ -1,0 +1,6 @@
+drivers/regulator/88pg86x.ko
+drivers/regulator/bd70528-regulator.ko
+drivers/regulator/max77650-regulator.ko
+drivers/regulator/mcp16502.ko
+drivers/regulator/slg51000-regulator.ko
+drivers/regulator/sy8824x.ko

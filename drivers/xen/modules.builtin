@@ -1,0 +1,6 @@
+drivers/xen/xen-evtchn.ko
+drivers/xen/xen-gntdev.ko
+drivers/xen/xen-gntalloc.ko
+drivers/xen/xen-privcmd.ko
+drivers/xen/xenbus/xenbus_probe_frontend.ko
+drivers/xen/xenfs/xenfs.ko

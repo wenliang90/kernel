@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/microchip_t1.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/phy/microchip_t1.ko drivers/net/phy/microchip_t1.o drivers/net/phy/microchip_t1.mod.o;  true

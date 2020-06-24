@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/ark3116.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/serial/ark3116.ko drivers/usb/serial/ark3116.o drivers/usb/serial/ark3116.mod.o;  true

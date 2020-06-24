@@ -1,0 +1,1 @@
+cmd_net/bpfilter/bpfilter.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/bpfilter/bpfilter.ko net/bpfilter/bpfilter.o net/bpfilter/bpfilter.mod.o;  true

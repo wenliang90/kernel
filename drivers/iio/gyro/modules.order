@@ -1,0 +1,3 @@
+drivers/iio/gyro/fxas21002c_core.ko
+drivers/iio/gyro/fxas21002c_i2c.ko
+drivers/iio/gyro/fxas21002c_spi.ko

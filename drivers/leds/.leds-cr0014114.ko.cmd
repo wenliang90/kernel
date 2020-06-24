@@ -1,0 +1,1 @@
+cmd_drivers/leds/leds-cr0014114.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/leds/leds-cr0014114.ko drivers/leds/leds-cr0014114.o drivers/leds/leds-cr0014114.mod.o;  true

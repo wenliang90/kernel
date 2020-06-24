@@ -1,0 +1,1 @@
+cmd_drivers/media/tuners/mt2063.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/tuners/mt2063.ko drivers/media/tuners/mt2063.o drivers/media/tuners/mt2063.mod.o;  true

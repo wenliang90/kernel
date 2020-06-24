@@ -1,0 +1,1 @@
+cmd_drivers/usb/misc/chaoskey.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/misc/chaoskey.ko drivers/usb/misc/chaoskey.o drivers/usb/misc/chaoskey.mod.o;  true

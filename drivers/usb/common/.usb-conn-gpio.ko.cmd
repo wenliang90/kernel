@@ -1,0 +1,1 @@
+cmd_drivers/usb/common/usb-conn-gpio.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/common/usb-conn-gpio.ko drivers/usb/common/usb-conn-gpio.o drivers/usb/common/usb-conn-gpio.mod.o;  true

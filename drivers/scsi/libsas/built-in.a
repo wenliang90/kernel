@@ -1,0 +1,22 @@
+!<thin>
+//                                              136       `
+sas_init.o/
+sas_phy.o/
+sas_port.o/
+sas_event.o/
+sas_discover.o/
+sas_expander.o/
+sas_scsi_host.o/
+sas_task.o/
+sas_ata.o/
+sas_host_smp.o/
+/0              0           0     0     644     24304     `
+/12             0           0     0     644     3936      `
+/23             0           0     0     644     8008      `
+/35             0           0     0     644     6776      `
+/48             0           0     0     644     14656     `
+/64             0           0     0     644     36160     `
+/80            /0           0     0     644     26632     `
+/97             0           0     0     644     2760      `
+/109            0           0     0     644     20032     `
+/120            0           0     0     644     4416      `

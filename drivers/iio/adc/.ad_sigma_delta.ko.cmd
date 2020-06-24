@@ -1,0 +1,1 @@
+cmd_drivers/iio/adc/ad_sigma_delta.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/iio/adc/ad_sigma_delta.ko drivers/iio/adc/ad_sigma_delta.o drivers/iio/adc/ad_sigma_delta.mod.o;  true

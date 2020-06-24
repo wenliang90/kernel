@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/hampshire.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/input/touchscreen/hampshire.ko drivers/input/touchscreen/hampshire.o drivers/input/touchscreen/hampshire.mod.o;  true

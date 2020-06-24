@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/dp83tc811.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/phy/dp83tc811.ko drivers/net/phy/dp83tc811.o drivers/net/phy/dp83tc811.mod.o;  true

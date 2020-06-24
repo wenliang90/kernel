@@ -1,0 +1,1 @@
+cmd_net/sched/act_ctinfo.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/sched/act_ctinfo.ko net/sched/act_ctinfo.o net/sched/act_ctinfo.mod.o;  true

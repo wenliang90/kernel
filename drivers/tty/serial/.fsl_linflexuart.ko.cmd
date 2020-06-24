@@ -1,0 +1,1 @@
+cmd_drivers/tty/serial/fsl_linflexuart.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/tty/serial/fsl_linflexuart.ko drivers/tty/serial/fsl_linflexuart.o drivers/tty/serial/fsl_linflexuart.mod.o;  true

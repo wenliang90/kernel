@@ -1,0 +1,1 @@
+cmd_drivers/net/usb/gl620a.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/usb/gl620a.ko drivers/net/usb/gl620a.o drivers/net/usb/gl620a.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/npcm750-pwm-fan.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/hwmon/npcm750-pwm-fan.ko drivers/hwmon/npcm750-pwm-fan.o drivers/hwmon/npcm750-pwm-fan.mod.o;  true

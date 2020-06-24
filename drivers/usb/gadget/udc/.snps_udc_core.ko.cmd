@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/udc/snps_udc_core.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/gadget/udc/snps_udc_core.ko drivers/usb/gadget/udc/snps_udc_core.o drivers/usb/gadget/udc/snps_udc_core.mod.o;  true

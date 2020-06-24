@@ -1,0 +1,1 @@
+cmd_drivers/iio/chemical/sps30.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/iio/chemical/sps30.ko drivers/iio/chemical/sps30.o drivers/iio/chemical/sps30.mod.o;  true

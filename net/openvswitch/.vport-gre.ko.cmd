@@ -1,0 +1,1 @@
+cmd_net/openvswitch/vport-gre.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/openvswitch/vport-gre.ko net/openvswitch/vport-gre.o net/openvswitch/vport-gre.mod.o;  true

@@ -1,0 +1,9 @@
+drivers/i2c/i2c-core.ko
+drivers/i2c/i2c-dev.ko
+drivers/i2c/i2c-mux.ko
+drivers/i2c/algos/i2c-algo-bit.ko
+drivers/i2c/busses/i2c-designware-core.ko
+drivers/i2c/busses/i2c-designware-platform.ko
+drivers/i2c/busses/i2c-rk3x.ko
+drivers/i2c/busses/i2c-cros-ec-tunnel.ko
+drivers/i2c/muxes/i2c-mux-pca954x.ko

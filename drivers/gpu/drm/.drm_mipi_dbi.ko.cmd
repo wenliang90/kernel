@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/drm_mipi_dbi.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/gpu/drm/drm_mipi_dbi.ko drivers/gpu/drm/drm_mipi_dbi.o drivers/gpu/drm/drm_mipi_dbi.mod.o;  true

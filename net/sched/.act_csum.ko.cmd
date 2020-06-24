@@ -1,0 +1,1 @@
+cmd_net/sched/act_csum.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/sched/act_csum.ko net/sched/act_csum.o net/sched/act_csum.mod.o;  true

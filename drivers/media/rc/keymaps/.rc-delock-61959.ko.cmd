@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/keymaps/rc-delock-61959.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/rc/keymaps/rc-delock-61959.ko drivers/media/rc/keymaps/rc-delock-61959.o drivers/media/rc/keymaps/rc-delock-61959.mod.o;  true

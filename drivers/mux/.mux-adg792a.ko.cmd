@@ -1,0 +1,1 @@
+cmd_drivers/mux/mux-adg792a.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/mux/mux-adg792a.ko drivers/mux/mux-adg792a.o drivers/mux/mux-adg792a.mod.o;  true

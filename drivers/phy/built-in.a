@@ -1,0 +1,26 @@
+!<thin>
+//                                              328       `
+phy-core.o/
+phy-core-mipi-dphy.o/
+phy-xgene.o/
+rockchip/phy-rockchip-dp.o/
+rockchip/phy-rockchip-emmc.o/
+rockchip/phy-rockchip-inno-hdmi.o/
+rockchip/phy-rockchip-inno-usb2.o/
+rockchip/phy-rockchip-inno-usb3.o/
+rockchip/phy-rockchip-pcie.o/
+rockchip/phy-rockchip-typec.o/
+rockchip/phy-rockchip-usb.o/
+samsung/phy-samsung-usb2.o/
+/0              0           0     0     644     40464     `
+/12             0           0     0     644     3592      `
+/34             0           0     0     644     19800     `
+/47             0           0     0     644     7376      `
+/75             0           0     0     644     9616      `
+/105            0           0     0     644     27256     `
+/140            0           0     0     644     35376     `
+/175            0           0     0     644     26640     `
+/210            0           0     0     644     12144     `
+/240            0           0     0     644     21320     `
+/271            0           0     0     644     15936     `
+/300            0           0     0     644     10032     `

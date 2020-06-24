@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/ads7846.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/input/touchscreen/ads7846.ko drivers/input/touchscreen/ads7846.o drivers/input/touchscreen/ads7846.mod.o;  true

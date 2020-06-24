@@ -1,0 +1,1 @@
+cmd_drivers/regulator/max77650-regulator.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/regulator/max77650-regulator.ko drivers/regulator/max77650-regulator.o drivers/regulator/max77650-regulator.mod.o;  true

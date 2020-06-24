@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/legacy/g_midi.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/gadget/legacy/g_midi.ko drivers/usb/gadget/legacy/g_midi.o drivers/usb/gadget/legacy/g_midi.mod.o;  true

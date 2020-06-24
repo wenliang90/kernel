@@ -1,0 +1,2 @@
+drivers/input/misc/rk805-pwrkey.ko
+drivers/input/misc/xen-kbdfront.ko

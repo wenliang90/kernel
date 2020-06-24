@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/stkwebcam/stkwebcam.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/usb/stkwebcam/stkwebcam.ko drivers/media/usb/stkwebcam/stkwebcam.o drivers/media/usb/stkwebcam/stkwebcam.mod.o;  true

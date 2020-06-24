@@ -1,0 +1,14 @@
+Package: linux-headers-current-rockchip64
+Source: linux-5.4.46-rockchip64
+Version: 20.05.0-trunk
+Architecture: arm64
+Maintainer: Igor Pecovnik <igor.pecovnik@****l.com>
+Installed-Size: 71532
+Depends: make, gcc, libc6-dev, bison, flex, libssl-dev
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 5.4.46-rockchip64 on arm64
+ This package provides kernel header files for 5.4.46-rockchip64 on arm64
+ .
+ This is useful for people who need to build external modules

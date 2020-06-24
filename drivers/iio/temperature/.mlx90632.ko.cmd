@@ -1,0 +1,1 @@
+cmd_drivers/iio/temperature/mlx90632.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/iio/temperature/mlx90632.ko drivers/iio/temperature/mlx90632.o drivers/iio/temperature/mlx90632.mod.o;  true

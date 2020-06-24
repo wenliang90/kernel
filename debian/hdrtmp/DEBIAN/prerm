@@ -1,0 +1,2 @@
+cd /usr/src/linux-headers-5.4.46-rockchip64
+rm -rf scripts .config.old

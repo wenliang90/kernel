@@ -1,0 +1,1 @@
+cmd_lib/test_stackinit.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o lib/test_stackinit.ko lib/test_stackinit.o lib/test_stackinit.mod.o;  true

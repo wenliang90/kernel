@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/mdio-mscc-miim.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/phy/mdio-mscc-miim.ko drivers/net/phy/mdio-mscc-miim.o drivers/net/phy/mdio-mscc-miim.mod.o;  true

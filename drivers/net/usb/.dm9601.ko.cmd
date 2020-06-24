@@ -1,0 +1,1 @@
+cmd_drivers/net/usb/dm9601.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/usb/dm9601.ko drivers/net/usb/dm9601.o drivers/net/usb/dm9601.mod.o;  true

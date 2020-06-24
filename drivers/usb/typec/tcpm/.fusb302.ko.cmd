@@ -1,0 +1,1 @@
+cmd_drivers/usb/typec/tcpm/fusb302.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/typec/tcpm/fusb302.ko drivers/usb/typec/tcpm/fusb302.o drivers/usb/typec/tcpm/fusb302.mod.o;  true

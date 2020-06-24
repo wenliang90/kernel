@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/msi2500/msi2500.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/usb/msi2500/msi2500.ko drivers/media/usb/msi2500/msi2500.o drivers/media/usb/msi2500/msi2500.mod.o;  true

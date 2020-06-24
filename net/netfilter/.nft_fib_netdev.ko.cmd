@@ -1,0 +1,1 @@
+cmd_net/netfilter/nft_fib_netdev.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/netfilter/nft_fib_netdev.ko net/netfilter/nft_fib_netdev.o net/netfilter/nft_fib_netdev.mod.o;  true

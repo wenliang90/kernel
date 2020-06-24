@@ -1,0 +1,1 @@
+cmd_drivers/pps/clients/pps-ldisc.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/pps/clients/pps-ldisc.ko drivers/pps/clients/pps-ldisc.o drivers/pps/clients/pps-ldisc.mod.o;  true

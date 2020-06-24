@@ -1,0 +1,1 @@
+cmd_drivers/watchdog/rave-sp-wdt.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/watchdog/rave-sp-wdt.ko drivers/watchdog/rave-sp-wdt.o drivers/watchdog/rave-sp-wdt.mod.o;  true

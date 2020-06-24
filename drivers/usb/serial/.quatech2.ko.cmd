@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/quatech2.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/serial/quatech2.ko drivers/usb/serial/quatech2.o drivers/usb/serial/quatech2.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/scsi/fdomain.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/scsi/fdomain.ko drivers/scsi/fdomain.o drivers/scsi/fdomain.mod.o;  true

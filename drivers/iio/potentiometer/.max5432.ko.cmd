@@ -1,0 +1,1 @@
+cmd_drivers/iio/potentiometer/max5432.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/iio/potentiometer/max5432.ko drivers/iio/potentiometer/max5432.o drivers/iio/potentiometer/max5432.mod.o;  true

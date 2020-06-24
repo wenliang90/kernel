@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/udc/goku_udc.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/gadget/udc/goku_udc.ko drivers/usb/gadget/udc/goku_udc.o drivers/usb/gadget/udc/goku_udc.mod.o;  true

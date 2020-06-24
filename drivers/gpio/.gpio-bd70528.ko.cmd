@@ -1,0 +1,1 @@
+cmd_drivers/gpio/gpio-bd70528.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/gpio/gpio-bd70528.ko drivers/gpio/gpio-bd70528.o drivers/gpio/gpio-bd70528.mod.o;  true

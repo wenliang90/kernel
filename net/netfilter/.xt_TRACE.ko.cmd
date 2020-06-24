@@ -1,0 +1,1 @@
+cmd_net/netfilter/xt_TRACE.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/netfilter/xt_TRACE.ko net/netfilter/xt_TRACE.o net/netfilter/xt_TRACE.mod.o;  true

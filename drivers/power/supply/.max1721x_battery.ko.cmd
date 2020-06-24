@@ -1,0 +1,1 @@
+cmd_drivers/power/supply/max1721x_battery.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/power/supply/max1721x_battery.ko drivers/power/supply/max1721x_battery.o drivers/power/supply/max1721x_battery.mod.o;  true

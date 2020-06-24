@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/rtl8812au/88XXau.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/wireless/rtl8812au/88XXau.ko drivers/net/wireless/rtl8812au/88XXau.o drivers/net/wireless/rtl8812au/88XXau.mod.o;  true

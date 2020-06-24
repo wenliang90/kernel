@@ -1,0 +1,1 @@
+cmd_drivers/usb/typec/tps6598x.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/typec/tps6598x.ko drivers/usb/typec/tps6598x.o drivers/usb/typec/tps6598x.mod.o;  true

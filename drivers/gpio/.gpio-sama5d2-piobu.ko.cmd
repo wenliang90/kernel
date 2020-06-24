@@ -1,0 +1,1 @@
+cmd_drivers/gpio/gpio-sama5d2-piobu.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/gpio/gpio-sama5d2-piobu.ko drivers/gpio/gpio-sama5d2-piobu.o drivers/gpio/gpio-sama5d2-piobu.mod.o;  true

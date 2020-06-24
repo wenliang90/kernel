@@ -1,0 +1,1 @@
+cmd_drivers/media/i2c/mt9v011.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/i2c/mt9v011.ko drivers/media/i2c/mt9v011.o drivers/media/i2c/mt9v011.mod.o;  true

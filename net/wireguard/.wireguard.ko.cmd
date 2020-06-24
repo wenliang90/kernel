@@ -1,0 +1,1 @@
+cmd_net/wireguard/wireguard.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/wireguard/wireguard.ko net/wireguard/wireguard.o net/wireguard/wireguard.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/tsc200x-core.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/input/touchscreen/tsc200x-core.ko drivers/input/touchscreen/tsc200x-core.o drivers/input/touchscreen/tsc200x-core.mod.o;  true

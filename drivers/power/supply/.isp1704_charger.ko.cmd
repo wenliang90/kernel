@@ -1,0 +1,1 @@
+cmd_drivers/power/supply/isp1704_charger.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/power/supply/isp1704_charger.ko drivers/power/supply/isp1704_charger.o drivers/power/supply/isp1704_charger.mod.o;  true

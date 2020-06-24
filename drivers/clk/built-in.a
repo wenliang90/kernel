@@ -1,0 +1,70 @@
+!<thin>
+//                                              654       `
+clk-devres.o/
+clk-bulk.o/
+clkdev.o/
+clk.o/
+clk-divider.o/
+clk-fixed-factor.o/
+clk-fixed-rate.o/
+clk-gate.o/
+clk-multiplier.o/
+clk-mux.o/
+clk-composite.o/
+clk-fractional-divider.o/
+clk-gpio.o/
+clk-conf.o/
+rockchip/clk.o/
+rockchip/clk-pll.o/
+rockchip/clk-cpu.o/
+rockchip/clk-half-divider.o/
+rockchip/clk-inverter.o/
+rockchip/clk-mmc-phase.o/
+rockchip/clk-muxgrf.o/
+rockchip/clk-ddr.o/
+rockchip/softrst.o/
+rockchip/clk-px30.o/
+rockchip/clk-rv1108.o/
+rockchip/clk-rk3036.o/
+rockchip/clk-rk3128.o/
+rockchip/clk-rk3188.o/
+rockchip/clk-rk3228.o/
+rockchip/clk-rk3288.o/
+rockchip/clk-rk3308.o/
+rockchip/clk-rk3328.o/
+rockchip/clk-rk3368.o/
+rockchip/clk-rk3399.o/
+/0              0           0     0     644     4288      `
+/14             0           0     0     644     4304      `
+/26             0           0     0     644     8552      `
+/36             0           0     0     644     48952     `
+/43             0           0     0     644     9408      `
+/58             0           0     0     644     8656      `
+/78             0           0     0     644     7000      `
+/96             0           0     0     644     4752      `
+/108            0           0     0     644     3720      `
+/126            0           0     0     644     5816      `
+/137           /0           0     0     644     6384      `
+/154            0           0     0     644     5488      `
+/180            0           0     0     644     8424      `
+/192            0           0     0     644     4376      `
+/204            0           0     0     644     11944     `
+/220            0           0     0     644     17480     `
+/240            0           0     0     644     7192      `
+/260            0           0     0     644     4952      `
+/289            0           0     0     644     3992      `
+/314           /0           0     0     644     4096      `
+/340            0           0     0     644     3416      `
+/363            0           0     0     644     7424      `
+/383            0           0     0     644     4128      `
+/403            0           0     0     644     72784     `
+/424            0           0     0     644     60576     `
+/447            0           0     0     644     32440     `
+/470            0           0     0     644     46400     `
+/493            0           0     0     644     55992     `
+/516            0           0     0     644     54352     `
+/539            0           0     0     644     70056     `
+/562            0           0     0     644     68400     `
+/585            0           0     0     644     62840     `
+/608            0           0     0     644     68608     `
+/631            0           0     0     644     110960    `

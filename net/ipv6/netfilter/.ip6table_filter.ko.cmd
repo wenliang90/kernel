@@ -1,0 +1,1 @@
+cmd_net/ipv6/netfilter/ip6table_filter.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/ipv6/netfilter/ip6table_filter.ko net/ipv6/netfilter/ip6table_filter.o net/ipv6/netfilter/ip6table_filter.mod.o;  true

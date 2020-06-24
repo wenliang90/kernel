@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/legacy/g_acm_ms.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/gadget/legacy/g_acm_ms.ko drivers/usb/gadget/legacy/g_acm_ms.o drivers/usb/gadget/legacy/g_acm_ms.mod.o;  true

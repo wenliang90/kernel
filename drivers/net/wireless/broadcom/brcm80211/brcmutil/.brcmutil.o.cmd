@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/broadcom/brcm80211/brcmutil/brcmutil.o := ccache aarch64-linux-gnu-ld  -EL  -maarch64elf    -r -o drivers/net/wireless/broadcom/brcm80211/brcmutil/brcmutil.o drivers/net/wireless/broadcom/brcm80211/brcmutil/utils.o drivers/net/wireless/broadcom/brcm80211/brcmutil/d11.o

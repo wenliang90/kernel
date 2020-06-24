@@ -1,0 +1,1 @@
+cmd_drivers/crypto/hisilicon/qm.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/crypto/hisilicon/qm.ko drivers/crypto/hisilicon/qm.o drivers/crypto/hisilicon/qm.mod.o;  true

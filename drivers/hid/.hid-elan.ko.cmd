@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-elan.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/hid/hid-elan.ko drivers/hid/hid-elan.o drivers/hid/hid-elan.mod.o;  true

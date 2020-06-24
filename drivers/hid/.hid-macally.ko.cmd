@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-macally.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/hid/hid-macally.ko drivers/hid/hid-macally.o drivers/hid/hid-macally.mod.o;  true

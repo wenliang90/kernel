@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/stv6110x.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/dvb-frontends/stv6110x.ko drivers/media/dvb-frontends/stv6110x.o drivers/media/dvb-frontends/stv6110x.mod.o;  true

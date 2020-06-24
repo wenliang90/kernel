@@ -1,0 +1,1 @@
+cmd_net/bridge/netfilter/ebt_stp.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/bridge/netfilter/ebt_stp.ko net/bridge/netfilter/ebt_stp.o net/bridge/netfilter/ebt_stp.mod.o;  true

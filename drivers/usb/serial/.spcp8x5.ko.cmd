@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/spcp8x5.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/serial/spcp8x5.ko drivers/usb/serial/spcp8x5.o drivers/usb/serial/spcp8x5.mod.o;  true

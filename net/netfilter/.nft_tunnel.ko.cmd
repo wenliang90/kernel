@@ -1,0 +1,1 @@
+cmd_net/netfilter/nft_tunnel.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/netfilter/nft_tunnel.ko net/netfilter/nft_tunnel.o net/netfilter/nft_tunnel.mod.o;  true

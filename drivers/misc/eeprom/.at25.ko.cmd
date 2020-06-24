@@ -1,0 +1,1 @@
+cmd_drivers/misc/eeprom/at25.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/misc/eeprom/at25.ko drivers/misc/eeprom/at25.o drivers/misc/eeprom/at25.mod.o;  true

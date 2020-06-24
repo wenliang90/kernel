@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/keymaps/rc-astrometa-t2hybrid.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/rc/keymaps/rc-astrometa-t2hybrid.ko drivers/media/rc/keymaps/rc-astrometa-t2hybrid.o drivers/media/rc/keymaps/rc-astrometa-t2hybrid.mod.o;  true

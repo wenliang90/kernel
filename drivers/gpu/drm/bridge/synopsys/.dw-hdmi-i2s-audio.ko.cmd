@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/bridge/synopsys/dw-hdmi-i2s-audio.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/gpu/drm/bridge/synopsys/dw-hdmi-i2s-audio.ko drivers/gpu/drm/bridge/synopsys/dw-hdmi-i2s-audio.o drivers/gpu/drm/bridge/synopsys/dw-hdmi-i2s-audio.mod.o;  true

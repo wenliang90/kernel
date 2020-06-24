@@ -1,0 +1,1 @@
+cmd_sound/usb/line6/snd-usb-variax.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o sound/usb/line6/snd-usb-variax.ko sound/usb/line6/snd-usb-variax.o sound/usb/line6/snd-usb-variax.mod.o;  true

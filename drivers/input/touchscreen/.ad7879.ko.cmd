@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/ad7879.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/input/touchscreen/ad7879.ko drivers/input/touchscreen/ad7879.o drivers/input/touchscreen/ad7879.mod.o;  true

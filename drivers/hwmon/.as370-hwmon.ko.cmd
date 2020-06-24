@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/as370-hwmon.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/hwmon/as370-hwmon.ko drivers/hwmon/as370-hwmon.o drivers/hwmon/as370-hwmon.mod.o;  true

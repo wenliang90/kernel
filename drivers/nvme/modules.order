@@ -1,0 +1,5 @@
+drivers/nvme/host/nvme-fabrics.ko
+drivers/nvme/host/nvme-fc.ko
+drivers/nvme/target/nvmet.ko
+drivers/nvme/target/nvme-loop.ko
+drivers/nvme/target/nvmet-fc.ko

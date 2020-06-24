@@ -1,0 +1,1 @@
+cmd_drivers/watchdog/bd70528_wdt.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/watchdog/bd70528_wdt.ko drivers/watchdog/bd70528_wdt.o drivers/watchdog/bd70528_wdt.mod.o;  true

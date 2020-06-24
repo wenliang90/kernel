@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/silead.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/input/touchscreen/silead.ko drivers/input/touchscreen/silead.o drivers/input/touchscreen/silead.mod.o;  true

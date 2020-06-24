@@ -1,0 +1,1 @@
+cmd_drivers/dma/bcm-sba-raid.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/dma/bcm-sba-raid.ko drivers/dma/bcm-sba-raid.o drivers/dma/bcm-sba-raid.mod.o;  true

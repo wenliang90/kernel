@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/bridge/analogix/analogix_dp.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/gpu/drm/bridge/analogix/analogix_dp.ko drivers/gpu/drm/bridge/analogix/analogix_dp.o drivers/gpu/drm/bridge/analogix/analogix_dp.mod.o;  true

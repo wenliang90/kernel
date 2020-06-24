@@ -1,0 +1,1 @@
+cmd_drivers/iio/light/max44009.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/iio/light/max44009.ko drivers/iio/light/max44009.o drivers/iio/light/max44009.mod.o;  true

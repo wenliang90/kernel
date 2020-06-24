@@ -1,0 +1,1 @@
+cmd_drivers/leds/leds-max77650.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/leds/leds-max77650.ko drivers/leds/leds-max77650.o drivers/leds/leds-max77650.mod.o;  true

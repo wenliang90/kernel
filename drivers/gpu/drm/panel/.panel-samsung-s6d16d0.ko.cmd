@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/panel/panel-samsung-s6d16d0.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/gpu/drm/panel/panel-samsung-s6d16d0.ko drivers/gpu/drm/panel/panel-samsung-s6d16d0.o drivers/gpu/drm/panel/panel-samsung-s6d16d0.mod.o;  true

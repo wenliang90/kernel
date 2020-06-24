@@ -1,0 +1,1 @@
+cmd_drivers/iio/magnetometer/rm3100-core.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/iio/magnetometer/rm3100-core.ko drivers/iio/magnetometer/rm3100-core.o drivers/iio/magnetometer/rm3100-core.mod.o;  true

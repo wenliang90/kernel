@@ -1,0 +1,1 @@
+cmd_drivers/video/backlight/rave-sp-backlight.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/video/backlight/rave-sp-backlight.ko drivers/video/backlight/rave-sp-backlight.o drivers/video/backlight/rave-sp-backlight.mod.o;  true

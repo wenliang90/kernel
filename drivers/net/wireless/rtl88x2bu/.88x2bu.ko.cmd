@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/rtl88x2bu/88x2bu.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/wireless/rtl88x2bu/88x2bu.ko drivers/net/wireless/rtl88x2bu/88x2bu.o drivers/net/wireless/rtl88x2bu/88x2bu.mod.o;  true

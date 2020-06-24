@@ -1,0 +1,1 @@
+cmd_drivers/iio/imu/adis_lib.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/iio/imu/adis_lib.ko drivers/iio/imu/adis_lib.o drivers/iio/imu/adis_lib.mod.o;  true

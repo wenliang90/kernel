@@ -1,0 +1,1 @@
+cmd_arch/arm64/crypto/sm4-ce.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o arch/arm64/crypto/sm4-ce.ko arch/arm64/crypto/sm4-ce.o arch/arm64/crypto/sm4-ce.mod.o;  true

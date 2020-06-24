@@ -1,0 +1,1 @@
+cmd_drivers/input/misc/rave-sp-pwrbutton.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/input/misc/rave-sp-pwrbutton.ko drivers/input/misc/rave-sp-pwrbutton.o drivers/input/misc/rave-sp-pwrbutton.mod.o;  true

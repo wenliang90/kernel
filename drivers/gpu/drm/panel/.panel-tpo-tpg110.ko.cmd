@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/panel/panel-tpo-tpg110.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/gpu/drm/panel/panel-tpo-tpg110.ko drivers/gpu/drm/panel/panel-tpo-tpg110.o drivers/gpu/drm/panel/panel-tpo-tpg110.mod.o;  true

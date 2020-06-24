@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/wacom_w8001.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/input/touchscreen/wacom_w8001.ko drivers/input/touchscreen/wacom_w8001.o drivers/input/touchscreen/wacom_w8001.mod.o;  true

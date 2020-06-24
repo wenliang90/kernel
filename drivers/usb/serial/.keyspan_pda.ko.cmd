@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/keyspan_pda.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/serial/keyspan_pda.ko drivers/usb/serial/keyspan_pda.o drivers/usb/serial/keyspan_pda.mod.o;  true

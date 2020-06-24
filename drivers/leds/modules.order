@@ -1,0 +1,5 @@
+drivers/leds/trigger/ledtrig-audio.ko
+drivers/leds/leds-lm3532.ko
+drivers/leds/leds-max77650.ko
+drivers/leds/leds-mlxreg.ko
+drivers/leds/leds-cr0014114.ko

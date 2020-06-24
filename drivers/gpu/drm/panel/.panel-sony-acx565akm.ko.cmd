@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/panel/panel-sony-acx565akm.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/gpu/drm/panel/panel-sony-acx565akm.ko drivers/gpu/drm/panel/panel-sony-acx565akm.o drivers/gpu/drm/panel/panel-sony-acx565akm.mod.o;  true

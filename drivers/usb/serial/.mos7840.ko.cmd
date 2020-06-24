@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/mos7840.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/serial/mos7840.ko drivers/usb/serial/mos7840.o drivers/usb/serial/mos7840.mod.o;  true

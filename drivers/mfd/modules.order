@@ -1,0 +1,4 @@
+drivers/mfd/max77650.ko
+drivers/mfd/rave-sp.ko
+drivers/mfd/rohm-bd70528.ko
+drivers/mfd/stmfx.ko

@@ -1,0 +1,1 @@
+cmd_drivers/usb/misc/lvstest.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/misc/lvstest.ko drivers/usb/misc/lvstest.o drivers/usb/misc/lvstest.mod.o;  true

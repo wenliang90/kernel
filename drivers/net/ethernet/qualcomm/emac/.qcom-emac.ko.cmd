@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/qualcomm/emac/qcom-emac.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/ethernet/qualcomm/emac/qcom-emac.ko drivers/net/ethernet/qualcomm/emac/qcom-emac.o drivers/net/ethernet/qualcomm/emac/qcom-emac.mod.o;  true

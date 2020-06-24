@@ -1,0 +1,1 @@
+cmd_drivers/media/tuners/m88rs6000t.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/tuners/m88rs6000t.ko drivers/media/tuners/m88rs6000t.o drivers/media/tuners/m88rs6000t.mod.o;  true

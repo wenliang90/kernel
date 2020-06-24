@@ -1,0 +1,1 @@
+cmd_net/sched/em_ipset.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/sched/em_ipset.ko net/sched/em_ipset.o net/sched/em_ipset.mod.o;  true

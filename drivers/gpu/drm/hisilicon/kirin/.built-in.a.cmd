@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/hisilicon/kirin/built-in.a := rm -f drivers/gpu/drm/hisilicon/kirin/built-in.a; ccache aarch64-linux-gnu-ar cDPrST drivers/gpu/drm/hisilicon/kirin/built-in.a drivers/gpu/drm/hisilicon/kirin/kirin_drm_drv.o drivers/gpu/drm/hisilicon/kirin/kirin_drm_ade.o drivers/gpu/drm/hisilicon/kirin/dw_drm_dsi.o

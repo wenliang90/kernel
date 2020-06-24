@@ -1,0 +1,1 @@
+cmd_drivers/media/i2c/ov5675.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/i2c/ov5675.ko drivers/media/i2c/ov5675.o drivers/media/i2c/ov5675.mod.o;  true

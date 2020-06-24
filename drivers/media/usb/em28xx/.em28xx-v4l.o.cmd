@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/em28xx/em28xx-v4l.o := ccache aarch64-linux-gnu-ld  -EL  -maarch64elf    -r -o drivers/media/usb/em28xx/em28xx-v4l.o drivers/media/usb/em28xx/em28xx-video.o drivers/media/usb/em28xx/em28xx-vbi.o

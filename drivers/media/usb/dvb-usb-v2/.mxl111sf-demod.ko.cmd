@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/dvb-usb-v2/mxl111sf-demod.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/usb/dvb-usb-v2/mxl111sf-demod.ko drivers/media/usb/dvb-usb-v2/mxl111sf-demod.o drivers/media/usb/dvb-usb-v2/mxl111sf-demod.mod.o;  true

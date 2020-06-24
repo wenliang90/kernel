@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/horus3a.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/dvb-frontends/horus3a.ko drivers/media/dvb-frontends/horus3a.o drivers/media/dvb-frontends/horus3a.mod.o;  true

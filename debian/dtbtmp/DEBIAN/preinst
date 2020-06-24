@@ -1,0 +1,2 @@
+rm -rf /boot/dtb-5.4.46-rockchip64; rm -rf /boot/dtb
+exit 0

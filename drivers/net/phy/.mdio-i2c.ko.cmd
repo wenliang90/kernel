@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/mdio-i2c.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/phy/mdio-i2c.ko drivers/net/phy/mdio-i2c.o drivers/net/phy/mdio-i2c.mod.o;  true

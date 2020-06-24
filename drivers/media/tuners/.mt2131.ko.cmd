@@ -1,0 +1,1 @@
+cmd_drivers/media/tuners/mt2131.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/tuners/mt2131.ko drivers/media/tuners/mt2131.o drivers/media/tuners/mt2131.mod.o;  true

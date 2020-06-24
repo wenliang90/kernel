@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/ath/ath6kl/ath6kl_core.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/wireless/ath/ath6kl/ath6kl_core.ko drivers/net/wireless/ath/ath6kl/ath6kl_core.o drivers/net/wireless/ath/ath6kl/ath6kl_core.mod.o;  true

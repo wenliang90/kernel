@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/ax88796b.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/phy/ax88796b.ko drivers/net/phy/ax88796b.o drivers/net/phy/ax88796b.mod.o;  true

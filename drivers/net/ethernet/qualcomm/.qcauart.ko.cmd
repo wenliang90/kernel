@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/qualcomm/qcauart.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/ethernet/qualcomm/qcauart.ko drivers/net/ethernet/qualcomm/qcauart.o drivers/net/ethernet/qualcomm/qcauart.mod.o;  true

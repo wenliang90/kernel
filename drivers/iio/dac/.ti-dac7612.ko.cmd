@@ -1,0 +1,1 @@
+cmd_drivers/iio/dac/ti-dac7612.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/iio/dac/ti-dac7612.ko drivers/iio/dac/ti-dac7612.o drivers/iio/dac/ti-dac7612.mod.o;  true

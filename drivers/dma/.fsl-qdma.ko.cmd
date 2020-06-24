@@ -1,0 +1,1 @@
+cmd_drivers/dma/fsl-qdma.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/dma/fsl-qdma.ko drivers/dma/fsl-qdma.o drivers/dma/fsl-qdma.mod.o;  true

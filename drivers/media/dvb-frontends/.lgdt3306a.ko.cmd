@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/lgdt3306a.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/dvb-frontends/lgdt3306a.ko drivers/media/dvb-frontends/lgdt3306a.o drivers/media/dvb-frontends/lgdt3306a.mod.o;  true

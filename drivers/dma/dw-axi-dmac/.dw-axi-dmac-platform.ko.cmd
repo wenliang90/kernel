@@ -1,0 +1,1 @@
+cmd_drivers/dma/dw-axi-dmac/dw-axi-dmac-platform.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/dma/dw-axi-dmac/dw-axi-dmac-platform.ko drivers/dma/dw-axi-dmac/dw-axi-dmac-platform.o drivers/dma/dw-axi-dmac/dw-axi-dmac-platform.mod.o;  true

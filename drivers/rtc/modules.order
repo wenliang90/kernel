@@ -1,0 +1,4 @@
+drivers/rtc/rtc-cadence.ko
+drivers/rtc/rtc-isl12026.ko
+drivers/rtc/rtc-rv3028.ko
+drivers/rtc/rtc-sd3078.ko

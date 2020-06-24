@@ -1,0 +1,1 @@
+cmd_net/bridge/netfilter/nft_reject_bridge.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/bridge/netfilter/nft_reject_bridge.ko net/bridge/netfilter/nft_reject_bridge.o net/bridge/netfilter/nft_reject_bridge.mod.o;  true

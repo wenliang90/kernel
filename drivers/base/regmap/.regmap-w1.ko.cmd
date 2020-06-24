@@ -1,0 +1,1 @@
+cmd_drivers/base/regmap/regmap-w1.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/base/regmap/regmap-w1.ko drivers/base/regmap/regmap-w1.o drivers/base/regmap/regmap-w1.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/fujitsu_ts.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/input/touchscreen/fujitsu_ts.ko drivers/input/touchscreen/fujitsu_ts.o drivers/input/touchscreen/fujitsu_ts.mod.o;  true

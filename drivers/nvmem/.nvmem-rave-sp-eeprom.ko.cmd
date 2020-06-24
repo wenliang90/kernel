@@ -1,0 +1,1 @@
+cmd_drivers/nvmem/nvmem-rave-sp-eeprom.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/nvmem/nvmem-rave-sp-eeprom.ko drivers/nvmem/nvmem-rave-sp-eeprom.o drivers/nvmem/nvmem-rave-sp-eeprom.mod.o;  true

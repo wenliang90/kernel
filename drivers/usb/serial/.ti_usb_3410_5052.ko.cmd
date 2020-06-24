@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/ti_usb_3410_5052.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/serial/ti_usb_3410_5052.ko drivers/usb/serial/ti_usb_3410_5052.o drivers/usb/serial/ti_usb_3410_5052.mod.o;  true

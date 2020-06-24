@@ -1,0 +1,1 @@
+cmd_net/netfilter/nf_synproxy_core.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/netfilter/nf_synproxy_core.ko net/netfilter/nf_synproxy_core.o net/netfilter/nf_synproxy_core.mod.o;  true

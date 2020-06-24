@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/au0828/au0828.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/usb/au0828/au0828.ko drivers/media/usb/au0828/au0828.o drivers/media/usb/au0828/au0828.mod.o;  true

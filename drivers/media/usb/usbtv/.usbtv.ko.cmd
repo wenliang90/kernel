@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/usbtv/usbtv.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/usb/usbtv/usbtv.ko drivers/media/usb/usbtv/usbtv.o drivers/media/usb/usbtv/usbtv.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/intel/built-in.a := rm -f drivers/net/ethernet/intel/built-in.a; ccache aarch64-linux-gnu-ar cDPrST drivers/net/ethernet/intel/built-in.a drivers/net/ethernet/intel/e1000e/built-in.a drivers/net/ethernet/intel/igb/built-in.a drivers/net/ethernet/intel/igbvf/built-in.a

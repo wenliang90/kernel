@@ -1,0 +1,1 @@
+cmd_net/netfilter/xt_HMARK.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/netfilter/xt_HMARK.ko net/netfilter/xt_HMARK.o net/netfilter/xt_HMARK.mod.o;  true

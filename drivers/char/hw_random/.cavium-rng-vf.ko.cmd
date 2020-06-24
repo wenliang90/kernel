@@ -1,0 +1,1 @@
+cmd_drivers/char/hw_random/cavium-rng-vf.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/char/hw_random/cavium-rng-vf.ko drivers/char/hw_random/cavium-rng-vf.o drivers/char/hw_random/cavium-rng-vf.mod.o;  true

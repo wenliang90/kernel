@@ -1,0 +1,7 @@
+drivers/mtd/mtd.ko
+drivers/mtd/mtd_blkdevs.ko
+drivers/mtd/mtdblock.ko
+drivers/mtd/chips/chipreg.ko
+drivers/mtd/maps/map_funcs.ko
+drivers/mtd/parsers/ofpart.ko
+drivers/mtd/spi-nor/spi-nor.ko

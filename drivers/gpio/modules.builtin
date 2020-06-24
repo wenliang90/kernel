@@ -1,0 +1,5 @@
+drivers/gpio/gpio-generic.ko
+drivers/gpio/gpio-dwapb.ko
+drivers/gpio/gpio-max77620.ko
+drivers/gpio/gpio-pca953x.ko
+drivers/gpio/gpio-syscon.ko

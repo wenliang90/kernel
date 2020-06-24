@@ -1,0 +1,1 @@
+cmd_drivers/power/supply/ds2760_battery.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/power/supply/ds2760_battery.ko drivers/power/supply/ds2760_battery.o drivers/power/supply/ds2760_battery.mod.o;  true

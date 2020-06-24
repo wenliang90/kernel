@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/drx39xyj/drx39xyj.o := ccache aarch64-linux-gnu-ld  -EL  -maarch64elf    -r -o drivers/media/dvb-frontends/drx39xyj/drx39xyj.o drivers/media/dvb-frontends/drx39xyj/drxj.o

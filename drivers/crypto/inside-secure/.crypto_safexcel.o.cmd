@@ -1,0 +1,1 @@
+cmd_drivers/crypto/inside-secure/crypto_safexcel.o := ccache aarch64-linux-gnu-ld  -EL  -maarch64elf    -r -o drivers/crypto/inside-secure/crypto_safexcel.o drivers/crypto/inside-secure/safexcel.o drivers/crypto/inside-secure/safexcel_ring.o drivers/crypto/inside-secure/safexcel_cipher.o drivers/crypto/inside-secure/safexcel_hash.o

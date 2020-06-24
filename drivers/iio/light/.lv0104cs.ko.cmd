@@ -1,0 +1,1 @@
+cmd_drivers/iio/light/lv0104cs.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/iio/light/lv0104cs.ko drivers/iio/light/lv0104cs.o drivers/iio/light/lv0104cs.mod.o;  true

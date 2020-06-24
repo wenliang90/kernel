@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/dvb_dummy_fe.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/dvb-frontends/dvb_dummy_fe.ko drivers/media/dvb-frontends/dvb_dummy_fe.o drivers/media/dvb-frontends/dvb_dummy_fe.mod.o;  true

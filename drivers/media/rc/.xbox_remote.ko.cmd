@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/xbox_remote.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/rc/xbox_remote.ko drivers/media/rc/xbox_remote.o drivers/media/rc/xbox_remote.mod.o;  true

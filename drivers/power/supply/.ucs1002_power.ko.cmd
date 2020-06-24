@@ -1,0 +1,1 @@
+cmd_drivers/power/supply/ucs1002_power.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/power/supply/ucs1002_power.ko drivers/power/supply/ucs1002_power.o drivers/power/supply/ucs1002_power.mod.o;  true

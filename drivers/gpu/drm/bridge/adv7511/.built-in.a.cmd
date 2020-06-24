@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/bridge/adv7511/built-in.a := rm -f drivers/gpu/drm/bridge/adv7511/built-in.a; ccache aarch64-linux-gnu-ar cDPrST drivers/gpu/drm/bridge/adv7511/built-in.a drivers/gpu/drm/bridge/adv7511/adv7511_drv.o drivers/gpu/drm/bridge/adv7511/adv7511_cec.o drivers/gpu/drm/bridge/adv7511/adv7533.o

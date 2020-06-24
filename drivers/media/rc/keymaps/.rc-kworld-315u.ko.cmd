@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/keymaps/rc-kworld-315u.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/rc/keymaps/rc-kworld-315u.ko drivers/media/rc/keymaps/rc-kworld-315u.o drivers/media/rc/keymaps/rc-kworld-315u.mod.o;  true

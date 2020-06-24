@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/keymaps/rc-winfast-usbii-deluxe.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/rc/keymaps/rc-winfast-usbii-deluxe.ko drivers/media/rc/keymaps/rc-winfast-usbii-deluxe.o drivers/media/rc/keymaps/rc-winfast-usbii-deluxe.mod.o;  true

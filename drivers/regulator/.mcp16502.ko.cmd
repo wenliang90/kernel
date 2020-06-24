@@ -1,0 +1,1 @@
+cmd_drivers/regulator/mcp16502.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/regulator/mcp16502.ko drivers/regulator/mcp16502.o drivers/regulator/mcp16502.mod.o;  true

@@ -1,0 +1,7 @@
+drivers/mtd/chips/cfi_probe.ko
+drivers/mtd/chips/cfi_util.ko
+drivers/mtd/chips/cfi_cmdset_0002.ko
+drivers/mtd/chips/gen_probe.ko
+drivers/mtd/spi-nor/mtk-quadspi.ko
+drivers/mtd/hyperbus/hyperbus-core.ko
+drivers/mtd/hyperbus/hbmc-am654.ko

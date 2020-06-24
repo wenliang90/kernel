@@ -1,0 +1,1 @@
+cmd_net/ipv4/netfilter/built-in.a := rm -f net/ipv4/netfilter/built-in.a; ccache aarch64-linux-gnu-ar cDPrST net/ipv4/netfilter/built-in.a net/ipv4/netfilter/nf_defrag_ipv4.o net/ipv4/netfilter/nf_log_ipv4.o net/ipv4/netfilter/nf_nat_pptp.o

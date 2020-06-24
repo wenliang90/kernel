@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/occ/occ-p8-hwmon.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/hwmon/occ/occ-p8-hwmon.ko drivers/hwmon/occ/occ-p8-hwmon.o drivers/hwmon/occ/occ-p8-hwmon.mod.o;  true

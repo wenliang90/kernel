@@ -1,0 +1,1 @@
+cmd_drivers/crypto/hisilicon/zip/hisi_zip.o := ccache aarch64-linux-gnu-ld  -EL  -maarch64elf    -r -o drivers/crypto/hisilicon/zip/hisi_zip.o drivers/crypto/hisilicon/zip/zip_main.o drivers/crypto/hisilicon/zip/zip_crypto.o

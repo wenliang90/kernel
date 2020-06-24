@@ -1,0 +1,1 @@
+cmd_net/ipv4/netfilter/iptable_security.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/ipv4/netfilter/iptable_security.ko net/ipv4/netfilter/iptable_security.o net/ipv4/netfilter/iptable_security.mod.o;  true

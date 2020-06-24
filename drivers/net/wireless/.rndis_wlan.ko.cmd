@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/rndis_wlan.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/wireless/rndis_wlan.ko drivers/net/wireless/rndis_wlan.o drivers/net/wireless/rndis_wlan.mod.o;  true

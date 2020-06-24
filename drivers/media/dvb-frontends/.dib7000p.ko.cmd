@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/dib7000p.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/dvb-frontends/dib7000p.ko drivers/media/dvb-frontends/dib7000p.o drivers/media/dvb-frontends/dib7000p.mod.o;  true

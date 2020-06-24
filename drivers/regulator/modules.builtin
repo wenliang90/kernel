@@ -1,0 +1,8 @@
+drivers/regulator/fixed.ko
+drivers/regulator/fan53555.ko
+drivers/regulator/gpio-regulator.ko
+drivers/regulator/max77620-regulator.ko
+drivers/regulator/qcom_spmi-regulator.ko
+drivers/regulator/pwm-regulator.ko
+drivers/regulator/rk808-regulator.ko
+drivers/regulator/s2mps11.ko

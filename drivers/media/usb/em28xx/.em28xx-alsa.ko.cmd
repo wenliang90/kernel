@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/em28xx/em28xx-alsa.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/usb/em28xx/em28xx-alsa.ko drivers/media/usb/em28xx/em28xx-alsa.o drivers/media/usb/em28xx/em28xx-alsa.mod.o;  true

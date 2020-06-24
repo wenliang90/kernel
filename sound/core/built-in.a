@@ -1,0 +1,75 @@
+!<thin>
+//                                              480       `
+sound.o/
+init.o/
+memory.o/
+control.o/
+misc.o/
+device.o/
+info.o/
+vmaster.o/
+ctljack.o/
+jack.o/
+timer.o/
+pcm.o/
+pcm_native.o/
+pcm_lib.o/
+pcm_misc.o/
+pcm_memory.o/
+memalloc.o/
+pcm_timer.o/
+pcm_drm_eld.o/
+pcm_iec958.o/
+pcm_dmaengine.o/
+seq_device.o/
+rawmidi.o/
+seq/seq.o/
+seq/seq_lock.o/
+seq/seq_clientmgr.o/
+seq/seq_memory.o/
+seq/seq_queue.o/
+seq/seq_fifo.o/
+seq/seq_prioq.o/
+seq/seq_timer.o/
+seq/seq_system.o/
+seq/seq_ports.o/
+seq/seq_info.o/
+seq/seq_midi.o/
+seq/seq_midi_event.o/
+
+/0              0           0     0     644     15976     `
+/9              0           0     0     644     30376     `
+/17             0           0     0     644     4552      `
+/27             0           0     0     644     60096     `
+/38             0           0     0     644     3672      `
+/46             0           0     0     644     6208      `
+/56             0           0     0     644     22984     `
+/64             0           0     0     644     10616     `
+/75             0           0     0     644     3352      `
+/86             0           0     0     644     9384      `
+/94             0           0     0     644     54272     `
+/103            0           0     0     644     34336     `
+/110            0           0     0     644     88280     `
+/124            0           0     0     644     47328     `
+/135            0           0     0     644     13464     `
+/147            0           0     0     644     13264     `
+/161            0           0     0     644     5608      `
+/173            0           0     0     644     4232      `
+/186            0           0     0     644     3920      `
+/201            0           0     0     644     3832      `
+/215           /0           0     0     644     11328     `
+/232            0           0     0     644     13392     `
+/246            0           0     0     644     54672     `
+/257            0           0     0     644     8504      `
+/268            0           0     0     644     2920      `
+/284           /0           0     0     644     51240     `
+/305            0           0     0     644     12552     `
+/323            0           0     0     644     16464     `
+/340            0           0     0     644     6920      `
+/356            0           0     0     644     4904      `
+/373            0           0     0     644     10752     `
+/390            0           0     0     644     4480      `
+/408            0           0     0     644     13184     `
+/425            0           0     0     644     3360      `
+/441            0           0     0     644     14360     `
+/457            0           0     0     644     13016     `

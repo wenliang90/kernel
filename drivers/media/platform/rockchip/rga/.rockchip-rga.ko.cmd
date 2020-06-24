@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/rockchip/rga/rockchip-rga.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/platform/rockchip/rga/rockchip-rga.ko drivers/media/platform/rockchip/rga/rockchip-rga.o drivers/media/platform/rockchip/rga/rockchip-rga.mod.o;  true

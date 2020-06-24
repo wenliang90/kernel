@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/keymaps/rc-pixelview-002t.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/rc/keymaps/rc-pixelview-002t.ko drivers/media/rc/keymaps/rc-pixelview-002t.o drivers/media/rc/keymaps/rc-pixelview-002t.mod.o;  true

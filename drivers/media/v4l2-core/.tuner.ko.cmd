@@ -1,0 +1,1 @@
+cmd_drivers/media/v4l2-core/tuner.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/v4l2-core/tuner.ko drivers/media/v4l2-core/tuner.o drivers/media/v4l2-core/tuner.mod.o;  true

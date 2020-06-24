@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/penmount.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/input/touchscreen/penmount.ko drivers/input/touchscreen/penmount.o drivers/input/touchscreen/penmount.mod.o;  true

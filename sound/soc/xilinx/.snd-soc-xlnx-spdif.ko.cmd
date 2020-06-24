@@ -1,0 +1,1 @@
+cmd_sound/soc/xilinx/snd-soc-xlnx-spdif.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o sound/soc/xilinx/snd-soc-xlnx-spdif.ko sound/soc/xilinx/snd-soc-xlnx-spdif.o sound/soc/xilinx/snd-soc-xlnx-spdif.mod.o;  true

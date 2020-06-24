@@ -1,0 +1,1 @@
+cmd_drivers/scsi/fdomain_pci.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/scsi/fdomain_pci.ko drivers/scsi/fdomain_pci.o drivers/scsi/fdomain_pci.mod.o;  true

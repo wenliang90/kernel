@@ -1,0 +1,1 @@
+cmd_drivers/md/bcache/bcache.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/md/bcache/bcache.ko drivers/md/bcache/bcache.o drivers/md/bcache/bcache.mod.o;  true

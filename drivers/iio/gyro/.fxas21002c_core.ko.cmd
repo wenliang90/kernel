@@ -1,0 +1,1 @@
+cmd_drivers/iio/gyro/fxas21002c_core.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/iio/gyro/fxas21002c_core.ko drivers/iio/gyro/fxas21002c_core.o drivers/iio/gyro/fxas21002c_core.mod.o;  true

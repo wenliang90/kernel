@@ -1,0 +1,5 @@
+drivers/clk/clk-cs2000-cp.ko
+drivers/clk/clk-pwm.ko
+drivers/clk/clk-rk808.ko
+drivers/clk/clk-s2mps11.ko
+drivers/clk/clk-scpi.ko

@@ -1,0 +1,1 @@
+cmd_net/ipv4/netfilter/iptable_raw.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/ipv4/netfilter/iptable_raw.ko net/ipv4/netfilter/iptable_raw.o net/ipv4/netfilter/iptable_raw.mod.o;  true

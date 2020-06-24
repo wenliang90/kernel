@@ -1,0 +1,1 @@
+cmd_drivers/media/tuners/mxl5007t.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/tuners/mxl5007t.ko drivers/media/tuners/mxl5007t.o drivers/media/tuners/mxl5007t.mod.o;  true

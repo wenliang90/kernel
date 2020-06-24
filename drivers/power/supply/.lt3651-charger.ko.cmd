@@ -1,0 +1,1 @@
+cmd_drivers/power/supply/lt3651-charger.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/power/supply/lt3651-charger.ko drivers/power/supply/lt3651-charger.o drivers/power/supply/lt3651-charger.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/cy8ctmg110_ts.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/input/touchscreen/cy8ctmg110_ts.ko drivers/input/touchscreen/cy8ctmg110_ts.o drivers/input/touchscreen/cy8ctmg110_ts.mod.o;  true

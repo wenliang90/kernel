@@ -1,0 +1,1 @@
+cmd_sound/soc/codecs/snd-soc-es8316.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o sound/soc/codecs/snd-soc-es8316.ko sound/soc/codecs/snd-soc-es8316.o sound/soc/codecs/snd-soc-es8316.mod.o;  true

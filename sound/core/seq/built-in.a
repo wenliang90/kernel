@@ -1,0 +1,28 @@
+!<thin>
+//                                              170       `
+seq.o/
+seq_lock.o/
+seq_clientmgr.o/
+seq_memory.o/
+seq_queue.o/
+seq_fifo.o/
+seq_prioq.o/
+seq_timer.o/
+seq_system.o/
+seq_ports.o/
+seq_info.o/
+seq_midi.o/
+seq_midi_event.o/
+/0              0           0     0     644     8504      `
+/7              0           0     0     644     2920      `
+/19            /0           0     0     644     51240     `
+/36             0           0     0     644     12552     `
+/50             0           0     0     644     16464     `
+/63             0           0     0     644     6920      `
+/75             0           0     0     644     4904      `
+/88             0           0     0     644     10752     `
+/101            0           0     0     644     4480      `
+/115            0           0     0     644     13184     `
+/128            0           0     0     644     3360      `
+/140            0           0     0     644     14360     `
+/152            0           0     0     644     13016     `

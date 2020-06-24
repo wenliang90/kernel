@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/at803x.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/phy/at803x.ko drivers/net/phy/at803x.o drivers/net/phy/at803x.mod.o;  true

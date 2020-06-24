@@ -1,0 +1,1 @@
+cmd_sound/drivers/built-in.a := rm -f sound/drivers/built-in.a; ccache aarch64-linux-gnu-ar cDPrST sound/drivers/built-in.a sound/drivers/dummy.o sound/drivers/aloop.o sound/drivers/serial-u16550.o sound/drivers/mtpav.o sound/drivers/opl3/built-in.a sound/drivers/opl4/built-in.a sound/drivers/mpu401/built-in.a sound/drivers/vx/built-in.a sound/drivers/pcsp/built-in.a

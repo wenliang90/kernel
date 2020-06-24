@@ -1,0 +1,7 @@
+lib/crypto/libarc4.ko
+lib/test_vmalloc.ko
+lib/test_stackinit.ko
+lib/crc-ccitt.ko
+lib/crc64.ko
+lib/crc8.ko
+lib/reed_solomon/reed_solomon.ko

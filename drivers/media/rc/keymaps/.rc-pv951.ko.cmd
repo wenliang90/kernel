@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/keymaps/rc-pv951.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/rc/keymaps/rc-pv951.ko drivers/media/rc/keymaps/rc-pv951.o drivers/media/rc/keymaps/rc-pv951.mod.o;  true

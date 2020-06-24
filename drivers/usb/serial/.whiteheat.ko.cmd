@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/whiteheat.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/serial/whiteheat.ko drivers/usb/serial/whiteheat.o drivers/usb/serial/whiteheat.mod.o;  true

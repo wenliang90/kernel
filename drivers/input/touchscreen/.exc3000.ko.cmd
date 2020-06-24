@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/exc3000.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/input/touchscreen/exc3000.ko drivers/input/touchscreen/exc3000.o drivers/input/touchscreen/exc3000.mod.o;  true

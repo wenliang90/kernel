@@ -1,0 +1,1 @@
+cmd_crypto/ecrdsa_generic.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o crypto/ecrdsa_generic.ko crypto/ecrdsa_generic.o crypto/ecrdsa_generic.mod.o;  true

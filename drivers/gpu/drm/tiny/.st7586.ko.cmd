@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/tiny/st7586.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/gpu/drm/tiny/st7586.ko drivers/gpu/drm/tiny/st7586.o drivers/gpu/drm/tiny/st7586.mod.o;  true

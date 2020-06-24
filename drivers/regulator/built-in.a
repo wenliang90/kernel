@@ -1,0 +1,31 @@
+!<thin>
+//                                              202       `
+core.o/
+dummy.o/
+fixed-helper.o/
+helpers.o/
+devres.o/
+of_regulator.o/
+fixed.o/
+fan53555.o/
+gpio-regulator.o/
+max77620-regulator.o/
+qcom_spmi-regulator.o/
+pwm-regulator.o/
+rk808-regulator.o/
+s2mps11.o/
+
+/0              0           0     0     644     129152    `
+/8              0           0     0     644     4872      `
+/17             0           0     0     644     2424      `
+/33             0           0     0     644     24248     `
+/44             0           0     0     644     16344     `
+/54             0           0     0     644     16560     `
+/70             0           0     0     644     9176      `
+/79             0           0     0     644     12816     `
+/91             0           0     0     644     11024     `
+/109            0           0     0     644     34200     `
+/131            0           0     0     644     51176     `
+/154           /0           0     0     644     12232     `
+/171            0           0     0     644     48520     `
+/190            0           0     0     644     81088     `

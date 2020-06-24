@@ -1,0 +1,1 @@
+cmd_drivers/media/tuners/tuner-types.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/tuners/tuner-types.ko drivers/media/tuners/tuner-types.o drivers/media/tuners/tuner-types.mod.o;  true

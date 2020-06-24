@@ -1,0 +1,1 @@
+cmd_drivers/regulator/slg51000-regulator.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/regulator/slg51000-regulator.ko drivers/regulator/slg51000-regulator.o drivers/regulator/slg51000-regulator.mod.o;  true

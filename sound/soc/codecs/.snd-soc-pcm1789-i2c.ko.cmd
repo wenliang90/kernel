@@ -1,0 +1,1 @@
+cmd_sound/soc/codecs/snd-soc-pcm1789-i2c.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o sound/soc/codecs/snd-soc-pcm1789-i2c.ko sound/soc/codecs/snd-soc-pcm1789-i2c.o sound/soc/codecs/snd-soc-pcm1789-i2c.mod.o;  true

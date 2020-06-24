@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/tiny/hx8357d.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/gpu/drm/tiny/hx8357d.ko drivers/gpu/drm/tiny/hx8357d.o drivers/gpu/drm/tiny/hx8357d.mod.o;  true

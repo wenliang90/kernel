@@ -1,0 +1,1 @@
+cmd_drivers/md/dm-integrity.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/md/dm-integrity.ko drivers/md/dm-integrity.o drivers/md/dm-integrity.mod.o;  true

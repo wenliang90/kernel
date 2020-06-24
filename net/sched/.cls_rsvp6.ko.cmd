@@ -1,0 +1,1 @@
+cmd_net/sched/cls_rsvp6.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/sched/cls_rsvp6.ko net/sched/cls_rsvp6.o net/sched/cls_rsvp6.mod.o;  true

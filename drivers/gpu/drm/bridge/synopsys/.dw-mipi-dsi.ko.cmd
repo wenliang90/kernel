@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/bridge/synopsys/dw-mipi-dsi.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/gpu/drm/bridge/synopsys/dw-mipi-dsi.ko drivers/gpu/drm/bridge/synopsys/dw-mipi-dsi.o drivers/gpu/drm/bridge/synopsys/dw-mipi-dsi.mod.o;  true

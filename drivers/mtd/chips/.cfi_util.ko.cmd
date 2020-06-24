@@ -1,0 +1,1 @@
+cmd_drivers/mtd/chips/cfi_util.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/mtd/chips/cfi_util.ko drivers/mtd/chips/cfi_util.o drivers/mtd/chips/cfi_util.mod.o;  true

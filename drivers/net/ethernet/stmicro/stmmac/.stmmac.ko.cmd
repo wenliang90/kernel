@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/stmicro/stmmac/stmmac.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/ethernet/stmicro/stmmac/stmmac.ko drivers/net/ethernet/stmicro/stmmac/stmmac.o drivers/net/ethernet/stmicro/stmmac/stmmac.mod.o;  true

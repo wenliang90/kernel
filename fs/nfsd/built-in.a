@@ -1,0 +1,60 @@
+!<thin>
+//                                              350       `
+trace.o/
+nfssvc.o/
+nfsctl.o/
+nfsproc.o/
+nfsfh.o/
+vfs.o/
+export.o/
+auth.o/
+lockd.o/
+nfscache.o/
+nfsxdr.o/
+stats.o/
+filecache.o/
+nfs2acl.o/
+nfs3proc.o/
+nfs3xdr.o/
+nfs3acl.o/
+nfs4proc.o/
+nfs4xdr.o/
+nfs4state.o/
+nfs4idmap.o/
+nfs4acl.o/
+nfs4callback.o/
+nfs4recover.o/
+nfs4layouts.o/
+blocklayout.o/
+blocklayoutxdr.o/
+flexfilelayout.o/
+flexfilelayoutxdr.o/
+/0              0           0     0     644     976       `
+/9              0           0     0     644     22832     `
+/19             0           0     0     644     36960     `
+/29             0           0     0     644     16936     `
+/40             0           0     0     644     9816      `
+/49             0           0     0     644     33000     `
+/56             0           0     0     644     29024     `
+/66             0           0     0     644     2928      `
+/74             0           0     0     644     2840      `
+/83             0           0     0     644     10440     `
+/95             0           0     0     644     9464      `
+/105            0           0     0     644     4736      `
+/114            0           0     0     644     23136     `
+/127            0           0     0     644     10800     `
+/138            0           0     0     644     19488     `
+/150            0           0     0     644     19904     `
+/161            0           0     0     644     7672      `
+/172            0           0     0     644     49536     `
+/184            0           0     0     644     66584     `
+/195            0           0     0     644     112720    `
+/208            0           0     0     644     18504     `
+/221            0           0     0     644     11664     `
+/232            0           0     0     644     18120     `
+/248            0           0     0     644     53872     `
+/263            0           0     0     644     18704     `
+/278            0           0     0     644     8608      `
+/293            0           0     0     644     3776      `
+/311            0           0     0     644     3856      `
+/329            0           0     0     644     3096      `

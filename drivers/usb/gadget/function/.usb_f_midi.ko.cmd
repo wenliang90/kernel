@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/function/usb_f_midi.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/gadget/function/usb_f_midi.ko drivers/usb/gadget/function/usb_f_midi.o drivers/usb/gadget/function/usb_f_midi.mod.o;  true

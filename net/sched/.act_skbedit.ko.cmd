@@ -1,0 +1,1 @@
+cmd_net/sched/act_skbedit.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/sched/act_skbedit.ko net/sched/act_skbedit.o net/sched/act_skbedit.mod.o;  true

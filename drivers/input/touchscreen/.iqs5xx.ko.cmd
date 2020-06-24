@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/iqs5xx.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/input/touchscreen/iqs5xx.ko drivers/input/touchscreen/iqs5xx.o drivers/input/touchscreen/iqs5xx.mod.o;  true

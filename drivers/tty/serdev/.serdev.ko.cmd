@@ -1,0 +1,1 @@
+cmd_drivers/tty/serdev/serdev.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/tty/serdev/serdev.ko drivers/tty/serdev/serdev.o drivers/tty/serdev/serdev.mod.o;  true

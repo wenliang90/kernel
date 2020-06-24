@@ -1,0 +1,1 @@
+cmd_sound/soc/codecs/snd-soc-cros-ec-codec.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o sound/soc/codecs/snd-soc-cros-ec-codec.ko sound/soc/codecs/snd-soc-cros-ec-codec.o sound/soc/codecs/snd-soc-cros-ec-codec.mod.o;  true

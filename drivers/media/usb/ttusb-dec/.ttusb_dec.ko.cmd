@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/ttusb-dec/ttusb_dec.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/usb/ttusb-dec/ttusb_dec.ko drivers/media/usb/ttusb-dec/ttusb_dec.o drivers/media/usb/ttusb-dec/ttusb_dec.mod.o;  true

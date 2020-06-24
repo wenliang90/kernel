@@ -1,0 +1,1 @@
+cmd_drivers/usb/typec/mux/pi3usb30532.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/typec/mux/pi3usb30532.ko drivers/usb/typec/mux/pi3usb30532.o drivers/usb/typec/mux/pi3usb30532.mod.o;  true

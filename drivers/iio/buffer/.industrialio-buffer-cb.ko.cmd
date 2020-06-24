@@ -1,0 +1,1 @@
+cmd_drivers/iio/buffer/industrialio-buffer-cb.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/iio/buffer/industrialio-buffer-cb.ko drivers/iio/buffer/industrialio-buffer-cb.o drivers/iio/buffer/industrialio-buffer-cb.mod.o;  true

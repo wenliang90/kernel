@@ -1,0 +1,1 @@
+cmd_fs/fscache/fscache.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o fs/fscache/fscache.ko fs/fscache/fscache.o fs/fscache/fscache.mod.o;  true

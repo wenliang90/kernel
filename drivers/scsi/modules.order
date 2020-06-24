@@ -1,0 +1,4 @@
+drivers/scsi/fdomain.ko
+drivers/scsi/fdomain_pci.ko
+drivers/scsi/sr_mod.ko
+drivers/scsi/sg.ko

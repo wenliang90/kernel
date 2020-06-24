@@ -1,0 +1,1 @@
+cmd_sound/soc/codecs/snd-soc-simple-amplifier.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o sound/soc/codecs/snd-soc-simple-amplifier.ko sound/soc/codecs/snd-soc-simple-amplifier.o sound/soc/codecs/snd-soc-simple-amplifier.mod.o;  true

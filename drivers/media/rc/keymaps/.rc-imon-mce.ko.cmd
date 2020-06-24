@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/keymaps/rc-imon-mce.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/rc/keymaps/rc-imon-mce.ko drivers/media/rc/keymaps/rc-imon-mce.o drivers/media/rc/keymaps/rc-imon-mce.mod.o;  true

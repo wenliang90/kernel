@@ -1,0 +1,1 @@
+cmd_drivers/net/usb/int51x1.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/usb/int51x1.ko drivers/net/usb/int51x1.o drivers/net/usb/int51x1.mod.o;  true

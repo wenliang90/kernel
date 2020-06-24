@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/qualcomm/qca_7k_common.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/ethernet/qualcomm/qca_7k_common.ko drivers/net/ethernet/qualcomm/qca_7k_common.o drivers/net/ethernet/qualcomm/qca_7k_common.mod.o;  true

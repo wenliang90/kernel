@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/mediatek/mt7601u/mt7601u.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/wireless/mediatek/mt7601u/mt7601u.ko drivers/net/wireless/mediatek/mt7601u/mt7601u.o drivers/net/wireless/mediatek/mt7601u/mt7601u.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/af9013.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/dvb-frontends/af9013.ko drivers/media/dvb-frontends/af9013.o drivers/media/dvb-frontends/af9013.mod.o;  true

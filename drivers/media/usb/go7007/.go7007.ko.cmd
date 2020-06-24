@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/go7007/go7007.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/usb/go7007/go7007.ko drivers/media/usb/go7007/go7007.o drivers/media/usb/go7007/go7007.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/cxd2841er.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/dvb-frontends/cxd2841er.ko drivers/media/dvb-frontends/cxd2841er.o drivers/media/dvb-frontends/cxd2841er.mod.o;  true

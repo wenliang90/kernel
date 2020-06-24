@@ -1,0 +1,77 @@
+!<thin>
+//                                              722       `
+soc-core.o/
+soc-dapm.o/
+soc-jack.o/
+soc-utils.o/
+soc-dai.o/
+soc-component.o/
+soc-pcm.o/
+soc-io.o/
+soc-devres.o/
+soc-ops.o/
+soc-generic-dmaengine-pcm.o/
+codecs/ak4613.o/
+codecs/da7219.o/
+codecs/da7219-aad.o/
+codecs/dmic.o/
+codecs/es8328.o/
+codecs/es8328-i2c.o/
+codecs/es8328-spi.o/
+codecs/max98090.o/
+codecs/max98357a.o/
+codecs/hdmi-codec.o/
+codecs/rl6231.o/
+codecs/rt5514.o/
+codecs/rt5514-spi.o/
+codecs/rt5645.o/
+codecs/rt5651.o/
+codecs/ts3a227e.o/
+generic/simple-card-utils.o/
+generic/simple-card.o/
+rockchip/rockchip_i2s.o/
+rockchip/rockchip_pcm.o/
+rockchip/rockchip_pdm.o/
+rockchip/rockchip_spdif.o/
+rockchip/rockchip_max98090.o/
+rockchip/rockchip_rt5645.o/
+rockchip/rk3288_hdmi_analog.o/
+rockchip/rk3399_gru_sound.o/
+
+/0              0           0     0     644     83080     `
+/12             0           0     0     644     84680     `
+/24             0           0     0     644     14944     `
+/36             0           0     0     644     8880      `
+/49             0           0     0     644     11088     `
+/60            /0           0     0     644     17280     `
+/77             0           0     0     644     55272     `
+/88             0           0     0     644     7904      `
+/98             0           0     0     644     5296      `
+/112            0           0     0     644     22288     `
+/123            0           0     0     644     14136     `
+/152            0           0     0     644     27576     `
+/169            0           0     0     644     88632     `
+/186            0           0     0     644     17552     `
+/207            0           0     0     644     9976      `
+/222            0           0     0     644     47744     `
+/239            0           0     0     644     5272      `
+/260            0           0     0     644     4864      `
+/281            0           0     0     644     137536    `
+/300            0           0     0     644     7384      `
+/320            0           0     0     644     16096     `
+/341            0           0     0     644     6640      `
+/358            0           0     0     644     56080     `
+/375            0           0     0     644     16200     `
+/396            0           0     0     644     224456    `
+/413            0           0     0     644     127520    `
+/430            0           0     0     644     10504     `
+/449            0           0     0     644     23712     `
+/478            0           0     0     644     16736     `
+/501            0           0     0     644     16896     `
+/526            0           0     0     644     3136      `
+/551            0           0     0     644     15600     `
+/576            0           0     0     644     14632     `
+/603            0           0     0     644     14752     `
+/633            0           0     0     644     13512     `
+/661            0           0     0     644     13496     `
+/692            0           0     0     644     21704     `

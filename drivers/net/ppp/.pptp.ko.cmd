@@ -1,0 +1,1 @@
+cmd_drivers/net/ppp/pptp.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/ppp/pptp.ko drivers/net/ppp/pptp.o drivers/net/ppp/pptp.mod.o;  true

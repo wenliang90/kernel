@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/tda1004x.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/dvb-frontends/tda1004x.ko drivers/media/dvb-frontends/tda1004x.o drivers/media/dvb-frontends/tda1004x.mod.o;  true

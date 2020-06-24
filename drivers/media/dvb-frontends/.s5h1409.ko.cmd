@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/s5h1409.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/dvb-frontends/s5h1409.ko drivers/media/dvb-frontends/s5h1409.o drivers/media/dvb-frontends/s5h1409.mod.o;  true

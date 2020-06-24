@@ -1,0 +1,1 @@
+cmd_drivers/phy/motorola/phy-mapphone-mdm6600.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/phy/motorola/phy-mapphone-mdm6600.ko drivers/phy/motorola/phy-mapphone-mdm6600.o drivers/phy/motorola/phy-mapphone-mdm6600.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_arch/arm64/crypto/nhpoly1305-neon.o := ccache aarch64-linux-gnu-ld  -EL  -maarch64elf    -r -o arch/arm64/crypto/nhpoly1305-neon.o arch/arm64/crypto/nh-neon-core.o arch/arm64/crypto/nhpoly1305-neon-glue.o

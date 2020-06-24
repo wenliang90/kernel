@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/hackrf/hackrf.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/usb/hackrf/hackrf.ko drivers/media/usb/hackrf/hackrf.o drivers/media/usb/hackrf/hackrf.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/panel/panel-nec-nl8048hl11.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/gpu/drm/panel/panel-nec-nl8048hl11.ko drivers/gpu/drm/panel/panel-nec-nl8048hl11.o drivers/gpu/drm/panel/panel-nec-nl8048hl11.mod.o;  true

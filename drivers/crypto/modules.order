@@ -1,0 +1,8 @@
+drivers/crypto/hisilicon/sec/hisi_sec.ko
+drivers/crypto/hisilicon/qm.ko
+drivers/crypto/hisilicon/sgl.ko
+drivers/crypto/hisilicon/zip/hisi_zip.ko
+drivers/crypto/ccree/ccree.ko
+drivers/crypto/rockchip/rk_crypto.ko
+drivers/crypto/virtio/virtio_crypto.ko
+drivers/crypto/inside-secure/crypto_safexcel.ko

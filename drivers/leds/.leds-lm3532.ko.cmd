@@ -1,0 +1,1 @@
+cmd_drivers/leds/leds-lm3532.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/leds/leds-lm3532.ko drivers/leds/leds-lm3532.o drivers/leds/leds-lm3532.mod.o;  true

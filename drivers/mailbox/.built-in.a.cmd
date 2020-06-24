@@ -1,0 +1,1 @@
+cmd_drivers/mailbox/built-in.a := rm -f drivers/mailbox/built-in.a; ccache aarch64-linux-gnu-ar cDPrST drivers/mailbox/built-in.a drivers/mailbox/mailbox.o drivers/mailbox/arm_mhu.o drivers/mailbox/platform_mhu.o drivers/mailbox/rockchip-mailbox.o

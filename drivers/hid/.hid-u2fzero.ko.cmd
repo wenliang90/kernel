@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-u2fzero.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/hid/hid-u2fzero.ko drivers/hid/hid-u2fzero.o drivers/hid/hid-u2fzero.mod.o;  true

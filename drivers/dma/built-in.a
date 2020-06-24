@@ -1,0 +1,20 @@
+!<thin>
+//                                              136       `
+dmaengine.o/
+of-dma.o/
+mv_xor_v2.o/
+pl330.o/
+qcom/hidma_mgmt.o/
+qcom/hidma_mgmt_sys.o/
+qcom/hidma_ll.o/
+qcom/hidma.o/
+qcom/hidma_dbg.o/
+/0              0           0     0     644     38664     `
+/13             0           0     0     644     10504     `
+/23             0           0     0     644     13608     `
+/36             0           0     0     644     41856     `
+/45             0           0     0     644     14688     `
+/64             0           0     0     644     10816     `
+/87             0           0     0     644     13440     `
+/104            0           0     0     644     24344     `
+/118            0           0     0     644     10632     `

@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/dvb-pll.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/dvb-frontends/dvb-pll.ko drivers/media/dvb-frontends/dvb-pll.o drivers/media/dvb-frontends/dvb-pll.mod.o;  true

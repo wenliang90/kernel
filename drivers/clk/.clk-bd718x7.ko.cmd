@@ -1,0 +1,1 @@
+cmd_drivers/clk/clk-bd718x7.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/clk/clk-bd718x7.ko drivers/clk/clk-bd718x7.o drivers/clk/clk-bd718x7.mod.o;  true

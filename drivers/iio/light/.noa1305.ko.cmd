@@ -1,0 +1,1 @@
+cmd_drivers/iio/light/noa1305.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/iio/light/noa1305.ko drivers/iio/light/noa1305.o drivers/iio/light/noa1305.mod.o;  true

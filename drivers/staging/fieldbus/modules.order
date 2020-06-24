@@ -1,0 +1,2 @@
+drivers/staging/fieldbus/fieldbus_dev.ko
+drivers/staging/fieldbus/anybuss/anybuss_core.ko

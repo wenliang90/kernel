@@ -1,0 +1,6 @@
+drivers/dma/virt-dma.ko
+drivers/dma/bcm-sba-raid.ko
+drivers/dma/dw-axi-dmac/dw-axi-dmac-platform.ko
+drivers/dma/dw-edma/dw-edma.ko
+drivers/dma/dw-edma/dw-edma-pcie.ko
+drivers/dma/fsl-qdma.ko

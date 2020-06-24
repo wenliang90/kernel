@@ -1,0 +1,1 @@
+cmd_drivers/net/usb/catc.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/usb/catc.ko drivers/net/usb/catc.o drivers/net/usb/catc.mod.o;  true

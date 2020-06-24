@@ -1,0 +1,1 @@
+cmd_drivers/mmc/host/sdhci-of-aspeed.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/mmc/host/sdhci-of-aspeed.ko drivers/mmc/host/sdhci-of-aspeed.o drivers/mmc/host/sdhci-of-aspeed.mod.o;  true

@@ -1,0 +1,6 @@
+drivers/hid/hid-creative-sb0540.ko
+drivers/hid/hid-elan.ko
+drivers/hid/hid-google-hammer.ko
+drivers/hid/hid-macally.ko
+drivers/hid/hid-maltron.ko
+drivers/hid/hid-u2fzero.ko

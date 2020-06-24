@@ -1,0 +1,1 @@
+cmd_drivers/net/usb/net1080.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/usb/net1080.ko drivers/net/usb/net1080.o drivers/net/usb/net1080.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_sound/soc/fsl/snd-soc-fsl-audmix.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o sound/soc/fsl/snd-soc-fsl-audmix.ko sound/soc/fsl/snd-soc-fsl-audmix.o sound/soc/fsl/snd-soc-fsl-audmix.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/regulator/bd70528-regulator.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/regulator/bd70528-regulator.ko drivers/regulator/bd70528-regulator.o drivers/regulator/bd70528-regulator.mod.o;  true

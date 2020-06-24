@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/keymaps/rc-avermedia-rm-ks.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/rc/keymaps/rc-avermedia-rm-ks.ko drivers/media/rc/keymaps/rc-avermedia-rm-ks.o drivers/media/rc/keymaps/rc-avermedia-rm-ks.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/panel/panel-sitronix-st7701.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/gpu/drm/panel/panel-sitronix-st7701.ko drivers/gpu/drm/panel/panel-sitronix-st7701.o drivers/gpu/drm/panel/panel-sitronix-st7701.mod.o;  true

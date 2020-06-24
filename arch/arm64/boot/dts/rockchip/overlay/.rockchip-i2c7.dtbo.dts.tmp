@@ -1,0 +1,15 @@
+# 1 "arch/arm64/boot/dts/rockchip/overlay/rockchip-i2c7.dts"
+# 1 "<built-in>"
+# 1 "<命令行>"
+# 1 "arch/arm64/boot/dts/rockchip/overlay/rockchip-i2c7.dts"
+/dts-v1/;
+
+/ {
+    compatible = "rockchip,rk3399";
+    fragment@0 {
+        target-path = "/i2c@ff160000";
+        __overlay__ {
+            status = "okay";
+        };
+    };
+};

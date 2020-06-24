@@ -1,0 +1,1 @@
+cmd_drivers/dma/dw-edma/dw-edma-pcie.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/dma/dw-edma/dw-edma-pcie.ko drivers/dma/dw-edma/dw-edma-pcie.o drivers/dma/dw-edma/dw-edma-pcie.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/mux/mux-mmio.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/mux/mux-mmio.ko drivers/mux/mux-mmio.o drivers/mux/mux-mmio.mod.o;  true

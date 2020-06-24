@@ -1,0 +1,1 @@
+cmd_drivers/usb/typec/typec.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/typec/typec.ko drivers/usb/typec/typec.o drivers/usb/typec/typec.mod.o;  true

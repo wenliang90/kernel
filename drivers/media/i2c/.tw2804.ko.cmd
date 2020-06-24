@@ -1,0 +1,1 @@
+cmd_drivers/media/i2c/tw2804.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/i2c/tw2804.ko drivers/media/i2c/tw2804.o drivers/media/i2c/tw2804.mod.o;  true

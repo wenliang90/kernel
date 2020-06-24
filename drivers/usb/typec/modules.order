@@ -1,0 +1,9 @@
+drivers/usb/typec/typec.ko
+drivers/usb/typec/altmodes/typec_displayport.ko
+drivers/usb/typec/tcpm/tcpm.ko
+drivers/usb/typec/tcpm/fusb302.ko
+drivers/usb/typec/tcpm/tcpci.ko
+drivers/usb/typec/tcpm/tcpci_rt1711h.ko
+drivers/usb/typec/ucsi/typec_ucsi.ko
+drivers/usb/typec/tps6598x.ko
+drivers/usb/typec/mux/pi3usb30532.ko

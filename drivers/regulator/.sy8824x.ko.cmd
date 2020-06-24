@@ -1,0 +1,1 @@
+cmd_drivers/regulator/sy8824x.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/regulator/sy8824x.ko drivers/regulator/sy8824x.o drivers/regulator/sy8824x.mod.o;  true

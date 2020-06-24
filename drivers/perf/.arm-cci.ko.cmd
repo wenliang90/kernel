@@ -1,0 +1,1 @@
+cmd_drivers/perf/arm-cci.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/perf/arm-cci.ko drivers/perf/arm-cci.o drivers/perf/arm-cci.mod.o;  true

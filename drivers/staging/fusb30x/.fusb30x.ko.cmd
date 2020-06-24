@@ -1,0 +1,1 @@
+cmd_drivers/staging/fusb30x/fusb30x.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/staging/fusb30x/fusb30x.ko drivers/staging/fusb30x/fusb30x.o drivers/staging/fusb30x/fusb30x.mod.o;  true

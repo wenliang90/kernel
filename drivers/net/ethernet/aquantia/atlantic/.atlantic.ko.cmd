@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/aquantia/atlantic/atlantic.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/ethernet/aquantia/atlantic/atlantic.ko drivers/net/ethernet/aquantia/atlantic/atlantic.o drivers/net/ethernet/aquantia/atlantic/atlantic.mod.o;  true

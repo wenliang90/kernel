@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/keymaps/rc-msi-digivox-iii.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/rc/keymaps/rc-msi-digivox-iii.ko drivers/media/rc/keymaps/rc-msi-digivox-iii.o drivers/media/rc/keymaps/rc-msi-digivox-iii.mod.o;  true

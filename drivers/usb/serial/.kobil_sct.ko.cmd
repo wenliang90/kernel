@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/kobil_sct.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/usb/serial/kobil_sct.ko drivers/usb/serial/kobil_sct.o drivers/usb/serial/kobil_sct.mod.o;  true

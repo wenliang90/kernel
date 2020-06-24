@@ -1,0 +1,5 @@
+drivers/iio/light/lv0104cs.ko
+drivers/iio/light/max44009.ko
+drivers/iio/light/noa1305.ko
+drivers/iio/light/si1133.ko
+drivers/iio/light/vcnl4035.ko

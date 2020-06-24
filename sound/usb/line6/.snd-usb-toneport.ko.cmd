@@ -1,0 +1,1 @@
+cmd_sound/usb/line6/snd-usb-toneport.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o sound/usb/line6/snd-usb-toneport.ko sound/usb/line6/snd-usb-toneport.o sound/usb/line6/snd-usb-toneport.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/crypto/hisilicon/sec/hisi_sec.o := ccache aarch64-linux-gnu-ld  -EL  -maarch64elf    -r -o drivers/crypto/hisilicon/sec/hisi_sec.o drivers/crypto/hisilicon/sec/sec_algs.o drivers/crypto/hisilicon/sec/sec_drv.o

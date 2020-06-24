@@ -1,0 +1,1 @@
+cmd_net/netfilter/nf_flow_table.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/netfilter/nf_flow_table.ko net/netfilter/nf_flow_table.o net/netfilter/nf_flow_table.mod.o;  true

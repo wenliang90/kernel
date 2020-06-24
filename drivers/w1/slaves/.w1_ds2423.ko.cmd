@@ -1,0 +1,1 @@
+cmd_drivers/w1/slaves/w1_ds2423.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/w1/slaves/w1_ds2423.ko drivers/w1/slaves/w1_ds2423.o drivers/w1/slaves/w1_ds2423.mod.o;  true

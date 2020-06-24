@@ -1,0 +1,1 @@
+cmd_drivers/iio/light/si1133.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/iio/light/si1133.ko drivers/iio/light/si1133.o drivers/iio/light/si1133.mod.o;  true

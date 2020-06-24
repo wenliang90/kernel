@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/mediatek/mt76/mt76-usb.o := ccache aarch64-linux-gnu-ld  -EL  -maarch64elf    -r -o drivers/net/wireless/mediatek/mt76/mt76-usb.o drivers/net/wireless/mediatek/mt76/usb.o drivers/net/wireless/mediatek/mt76/usb_trace.o

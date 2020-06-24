@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/rockchip/rga/rockchip-rga.mod := { echo  drivers/media/platform/rockchip/rga/rga.o drivers/media/platform/rockchip/rga/rga-hw.o drivers/media/platform/rockchip/rga/rga-buf.o; echo; } > drivers/media/platform/rockchip/rga/rockchip-rga.mod

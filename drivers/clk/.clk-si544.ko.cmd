@@ -1,0 +1,1 @@
+cmd_drivers/clk/clk-si544.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/clk/clk-si544.ko drivers/clk/clk-si544.o drivers/clk/clk-si544.mod.o;  true

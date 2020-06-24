@@ -1,0 +1,1 @@
+cmd_drivers/md/dm-switch.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/md/dm-switch.ko drivers/md/dm-switch.o drivers/md/dm-switch.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/w1/masters/sgi_w1.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/w1/masters/sgi_w1.ko drivers/w1/masters/sgi_w1.o drivers/w1/masters/sgi_w1.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/ascot2e.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/dvb-frontends/ascot2e.ko drivers/media/dvb-frontends/ascot2e.o drivers/media/dvb-frontends/ascot2e.mod.o;  true

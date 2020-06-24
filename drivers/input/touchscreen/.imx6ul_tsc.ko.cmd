@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/imx6ul_tsc.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/input/touchscreen/imx6ul_tsc.ko drivers/input/touchscreen/imx6ul_tsc.o drivers/input/touchscreen/imx6ul_tsc.mod.o;  true

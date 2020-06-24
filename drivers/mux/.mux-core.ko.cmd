@@ -1,0 +1,1 @@
+cmd_drivers/mux/mux-core.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/mux/mux-core.ko drivers/mux/mux-core.o drivers/mux/mux-core.mod.o;  true

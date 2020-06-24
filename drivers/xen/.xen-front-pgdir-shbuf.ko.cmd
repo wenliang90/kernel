@@ -1,0 +1,1 @@
+cmd_drivers/xen/xen-front-pgdir-shbuf.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/xen/xen-front-pgdir-shbuf.ko drivers/xen/xen-front-pgdir-shbuf.o drivers/xen/xen-front-pgdir-shbuf.mod.o;  true

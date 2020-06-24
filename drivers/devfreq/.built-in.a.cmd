@@ -1,0 +1,1 @@
+cmd_drivers/devfreq/built-in.a := rm -f drivers/devfreq/built-in.a; ccache aarch64-linux-gnu-ar cDPrST drivers/devfreq/built-in.a drivers/devfreq/devfreq.o drivers/devfreq/devfreq-event.o drivers/devfreq/governor_simpleondemand.o drivers/devfreq/rk3399_dmc.o drivers/devfreq/rk3328_dmc.o drivers/devfreq/event/built-in.a

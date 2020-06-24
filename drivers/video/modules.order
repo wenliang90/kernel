@@ -1,0 +1,4 @@
+drivers/video/backlight/lcd.ko
+drivers/video/backlight/generic_bl.ko
+drivers/video/backlight/rave-sp-backlight.ko
+drivers/video/fbdev/uvesafb.ko

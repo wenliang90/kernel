@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/keymaps/rc-avermedia-a16d.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/rc/keymaps/rc-avermedia-a16d.ko drivers/media/rc/keymaps/rc-avermedia-a16d.o drivers/media/rc/keymaps/rc-avermedia-a16d.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_net/ipv4/netfilter/nf_log_arp.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/ipv4/netfilter/nf_log_arp.ko net/ipv4/netfilter/nf_log_arp.o net/ipv4/netfilter/nf_log_arp.mod.o;  true

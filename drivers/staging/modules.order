@@ -1,0 +1,5 @@
+drivers/staging/rtl8723bs/r8723bs.ko
+drivers/staging/fusb30x/fusb30x.ko
+drivers/staging/fieldbus/fieldbus_dev.ko
+drivers/staging/fieldbus/anybuss/anybuss_core.ko
+drivers/staging/exfat/exfat.ko

@@ -1,0 +1,1 @@
+cmd_drivers/phy/cadence/phy-cadence-sierra.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/phy/cadence/phy-cadence-sierra.ko drivers/phy/cadence/phy-cadence-sierra.o drivers/phy/cadence/phy-cadence-sierra.mod.o;  true

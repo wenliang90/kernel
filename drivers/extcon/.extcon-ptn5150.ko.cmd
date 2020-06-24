@@ -1,0 +1,1 @@
+cmd_drivers/extcon/extcon-ptn5150.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/extcon/extcon-ptn5150.ko drivers/extcon/extcon-ptn5150.o drivers/extcon/extcon-ptn5150.mod.o;  true

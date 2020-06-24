@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/usbtv/usbtv.o := ccache aarch64-linux-gnu-ld  -EL  -maarch64elf    -r -o drivers/media/usb/usbtv/usbtv.o drivers/media/usb/usbtv/usbtv-core.o drivers/media/usb/usbtv/usbtv-video.o drivers/media/usb/usbtv/usbtv-audio.o

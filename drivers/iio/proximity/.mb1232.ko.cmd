@@ -1,0 +1,1 @@
+cmd_drivers/iio/proximity/mb1232.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/iio/proximity/mb1232.ko drivers/iio/proximity/mb1232.o drivers/iio/proximity/mb1232.mod.o;  true

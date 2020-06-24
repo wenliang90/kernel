@@ -1,0 +1,1 @@
+cmd_net/sched/sch_gred.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o net/sched/sch_gred.ko net/sched/sch_gred.o net/sched/sch_gred.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/media/common/videobuf2/videobuf2-v4l2.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/common/videobuf2/videobuf2-v4l2.ko drivers/media/common/videobuf2/videobuf2-v4l2.o drivers/media/common/videobuf2/videobuf2-v4l2.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/iio/adc/ad7768-1.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/iio/adc/ad7768-1.ko drivers/iio/adc/ad7768-1.o drivers/iio/adc/ad7768-1.mod.o;  true

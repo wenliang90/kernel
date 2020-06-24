@@ -1,0 +1,5 @@
+linux-5.4.46-rockchip64 (20.05.0-trunk) bionic; urgency=low
+
+  * Custom built Linux kernel.
+
+ -- Igor Pecovnik <igor.pecovnik@****l.com>  Tue, 16 Jun 2020 10:21:21 +0800

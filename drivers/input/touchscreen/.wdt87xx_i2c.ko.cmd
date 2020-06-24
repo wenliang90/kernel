@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/wdt87xx_i2c.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/input/touchscreen/wdt87xx_i2c.ko drivers/input/touchscreen/wdt87xx_i2c.o drivers/input/touchscreen/wdt87xx_i2c.mod.o;  true

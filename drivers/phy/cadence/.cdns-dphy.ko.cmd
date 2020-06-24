@@ -1,0 +1,1 @@
+cmd_drivers/phy/cadence/cdns-dphy.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/phy/cadence/cdns-dphy.ko drivers/phy/cadence/cdns-dphy.o drivers/phy/cadence/cdns-dphy.mod.o;  true

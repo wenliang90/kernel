@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/dvb-usb/dvb-usb-dtv5100.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/usb/dvb-usb/dvb-usb-dtv5100.ko drivers/media/usb/dvb-usb/dvb-usb-dtv5100.o drivers/media/usb/dvb-usb/dvb-usb-dtv5100.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/crypto/hisilicon/sgl.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/crypto/hisilicon/sgl.ko drivers/crypto/hisilicon/sgl.o drivers/crypto/hisilicon/sgl.mod.o;  true

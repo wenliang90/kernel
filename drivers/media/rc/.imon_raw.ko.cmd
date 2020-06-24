@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/imon_raw.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/media/rc/imon_raw.ko drivers/media/rc/imon_raw.o drivers/media/rc/imon_raw.mod.o;  true

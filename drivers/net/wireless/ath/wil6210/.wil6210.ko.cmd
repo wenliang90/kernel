@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/ath/wil6210/wil6210.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/wireless/ath/wil6210/wil6210.ko drivers/net/wireless/ath/wil6210/wil6210.o drivers/net/wireless/ath/wil6210/wil6210.mod.o;  true

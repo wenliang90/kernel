@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/rtl8188eu/8188eu.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -o drivers/net/wireless/rtl8188eu/8188eu.ko drivers/net/wireless/rtl8188eu/8188eu.o drivers/net/wireless/rtl8188eu/8188eu.mod.o;  true
